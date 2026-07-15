@@ -1,0 +1,51 @@
+﻿cliente_id,nombre_cliente,sector,region_comercial,satisfaccion_nps,categoria_nps,ejecutivo_cuenta,estado_cliente,ingresos_total
+CLI-1000,Empresa Industrial 1000,Manufactura,Insular,2.0,Detractor,VEND-14,Inactivo,130091.61
+CLI-1001,Empresa Industrial 1001,Manufactura,Costa,7.0,Neutro,VEND-17,Prospecto,74114.69
+CLI-1002,Empresa Industrial 1002,Agroindustria,Sierra,6.0,Detractor,VEND-12,Inactivo,225676.82
+CLI-1003,Empresa Industrial 1003,Construcción,Sierra,9.0,Promotor,VEND-10,Activo,139683.39
+CLI-1004,Empresa Industrial 1004,Manufactura,Costa,6.0,Detractor,VEND-16,Activo,183002.31
+CLI-1005,Empresa Industrial 1005,Retail,Sierra,10.0,Promotor,VEND-13,Activo,310544.0
+CLI-1006,Empresa Industrial 1006,Químico,Oriente,3.0,Detractor,VEND-11,Prospecto,177271.97
+CLI-1007,Empresa Industrial 1007,Construcción,Sierra,5.0,Detractor,VEND-16,Activo,162635.42
+CLI-1008,Empresa Industrial 1008,Retail,Costa,9.0,Promotor,VEND-13,Activo,164078.98
+CLI-1009,Empresa Industrial 1009,Retail,Insular,7.0,Neutro,VEND-10,Activo,120926.75
+CLI-1010,Empresa Industrial 1010,Manufactura,Costa,8.0,Neutro,VEND-16,Inactivo,250480.11000000002
+CLI-1011,Empresa Industrial 1011,Agroindustria,Insular,6.0,Detractor,VEND-17,Activo,142102.14
+CLI-1012,Empresa Industrial 1012,Agroindustria,Oriente,6.0,Detractor,VEND-14,Activo,143271.38
+CLI-1013,Empresa Industrial 1013,Construcción,Oriente,4.0,Detractor,VEND-10,Activo,158417.97
+CLI-1014,Empresa Industrial 1014,Construcción,Costa,8.0,Neutro,VEND-14,Activo,124053.03
+CLI-1015,Empresa Industrial 1015,Construcción,Costa,0.0,Detractor,VEND-12,Inactivo,104865.70000000001
+CLI-1016,Empresa Industrial 1016,Químico,Sierra,8.0,Neutro,VEND-15,Activo,208570.27000000002
+CLI-1017,Empresa Industrial 1017,Retail,Costa,7.0,Neutro,VEND-12,Activo,170080.18
+CLI-1018,Empresa Industrial 1018,Retail,Sierra,9.0,Promotor,VEND-13,Activo,209547.99
+CLI-1019,Empresa Industrial 1019,Manufactura,Oriente,9.0,Promotor,VEND-15,Activo,178564.53
+CLI-1020,Empresa Industrial 1020,Manufactura,Insular,,Sin datos,VEND-16,Activo,173215.86
+CLI-1021,Empresa Industrial 1021,Manufactura,Insular,1.0,Detractor,VEND-10,Inactivo,158263.75
+CLI-1022,Empresa Industrial 1022,Agroindustria,Oriente,10.0,Promotor,VEND-15,Activo,120585.97
+CLI-1023,Empresa Industrial 1023,Construcción,Oriente,7.0,Neutro,VEND-16,Activo,134484.09
+CLI-1024,Empresa Industrial 1024,Manufactura,Insular,3.0,Detractor,VEND-13,Activo,155961.06
+CLI-1025,Empresa Industrial 1025,Retail,Insular,10.0,Promotor,VEND-17,Activo,190758.45
+CLI-1026,Empresa Industrial 1026,Manufactura,Sierra,8.0,Neutro,VEND-10,Inactivo,208033.72
+CLI-1027,Empresa Industrial 1027,Químico,Oriente,6.0,Detractor,VEND-15,Activo,204461.61
+CLI-1028,Empresa Industrial 1028,Manufactura,Sierra,2.0,Detractor,VEND-13,Inactivo,261155.69
+CLI-1029,Empresa Industrial 1029,Agroindustria,Costa,1.0,Detractor,VEND-12,Prospecto,256293.18
+CLI-1030,Empresa Industrial 1030,Construcción,Costa,8.0,Neutro,VEND-14,Prospecto,162351.87
+CLI-1031,Empresa Industrial 1031,Construcción,Costa,5.0,Detractor,VEND-15,Prospecto,199727.78
+CLI-1032,Empresa Industrial 1032,Químico,Costa,10.0,Promotor,VEND-14,Activo,118525.07
+CLI-1033,Empresa Industrial 1033,Agroindustria,Oriente,3.0,Detractor,VEND-14,Activo,149218.01
+CLI-1034,Empresa Industrial 1034,Retail,Sierra,8.0,Neutro,VEND-10,Activo,184251.71
+CLI-1035,Empresa Industrial 1035,Manufactura,Oriente,1.0,Detractor,VEND-12,Prospecto,172114.37
+CLI-1036,Empresa Industrial 1036,Agroindustria,Insular,7.0,Neutro,VEND-15,Activo,227036.04
+CLI-1037,Empresa Industrial 1037,Agroindustria,Costa,0.0,Detractor,VEND-17,Inactivo,157296.35
+CLI-1038,Empresa Industrial 1038,Químico,Oriente,,Sin datos,VEND-14,Inactivo,208688.12
+CLI-1039,Empresa Industrial 1039,Agroindustria,Costa,10.0,Promotor,VEND-13,Inactivo,208684.06
+CLI-1040,Empresa Industrial 1040,Agroindustria,Sierra,9.0,Promotor,VEND-10,Activo,192705.28
+CLI-1041,Empresa Industrial 1041,Químico,Costa,,Sin datos,VEND-11,Inactivo,177386.52
+CLI-1042,Empresa Industrial 1042,Agroindustria,Costa,9.0,Promotor,VEND-13,Activo,134852.68
+CLI-1043,Empresa Industrial 1043,Agroindustria,Costa,9.0,Promotor,VEND-11,Inactivo,199920.30000000002
+CLI-1044,Empresa Industrial 1044,Manufactura,Sierra,9.0,Promotor,VEND-10,Inactivo,132931.75
+CLI-1045,Empresa Industrial 1045,Químico,Sierra,9.0,Promotor,VEND-16,Activo,202696.77
+CLI-1046,Empresa Industrial 1046,Construcción,Insular,4.0,Detractor,VEND-17,Activo,197492.7
+CLI-1047,Empresa Industrial 1047,Construcción,Sierra,10.0,Promotor,VEND-13,Activo,136266.8
+CLI-1048,Empresa Industrial 1048,Químico,Insular,6.0,Detractor,VEND-15,Activo,166303.25
+CLI-1049,Empresa Industrial 1049,Construcción,Costa,5.0,Detractor,VEND-11,Activo,236579.39

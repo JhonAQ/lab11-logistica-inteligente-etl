@@ -1,0 +1,1001 @@
+﻿id_despacho,cliente_id,producto,cantidad,unidad_medida,fecha_despacho,bodega_origen,peso_bruto,peso_unidad
+DES-8000,CLI-1005,Textiles,137,kg,01-Apr-2025,BOD-03,1285.04,kg
+DES-8001,CLI-1004,Alimentos,124,kg,18-Feb-2025,BOD-03,963.78,lb
+DES-8002,CLI-1028,Materiales de construcción,55,kg,17-Jan-2025,BOD-04,513.36,lb
+DES-8003,CLI-1042,Alimentos,173,cajas,20-Apr-2025,BOD-04,1092.64,lb
+DES-8004,CLI-1020,Alimentos,71,pallets,21-Feb-2025,BOD-01,281.39,lb
+DES-8005,C-1021,Textiles,38,cajas,25-Mar-2025,BOD-01,889.43,kg
+DES-8006,CLI-1001,Químicos,63,cajas,17-Jun-2025,BOD-01,58.16,kg
+DES-8007,CLI-1010,Alimentos,78,kg,18-Apr-2025,BOD-02,836.66,kg
+DES-8008,CLI-1009,Electrodomésticos,334,cajas,07-Apr-2025,BOD-04,1562.2,lb
+DES-8009,CLI-1039,Materiales de construcción,408,cajas,07-Feb-2025,BOD-02,6515.75,lb
+DES-8010,CLI-1036,Electrodomésticos,391,kg,05-Jan-2025,BOD-02,1528.51,lb
+DES-8011,CLI-1031,Textiles,399,ton,27-May-2025,BOD-04,680.03,kg
+DES-8012,CLI-1010,Textiles,25,kg,20-Jun-2025,BOD-04,571.63,lb
+DES-8013,CLI-1035,Alimentos,325,cajas,04-Feb-2025,BOD-02,4593.64,kg
+DES-8014,CLI-1009,Materiales de construcción,189,kg,19-Mar-2025,BOD-02,4266.43,kg
+DES-8015,CLI-1021,Materiales de construcción,462,kg,12-Feb-2025,BOD-04,411.38,lb
+DES-8016,cliente_1002,Alimentos,292,kg,15-Feb-2025,BOD-03,237.53,lb
+DES-8017,CLI-1019,Químicos,144,cajas,18-Apr-2025,BOD-03,218.97,kg
+DES-8018,CLI-1016,Electrodomésticos,334,pallets,03-Jun-2025,BOD-03,3731.94,lb
+DES-8019,CLI-1013,Electrodomésticos,58,cajas,31-Mar-2025,BOD-03,642.04,kg
+DES-8020,CLI-1014,Materiales de construcción,296,cajas,20-May-2025,BOD-04,5427.49,lb
+DES-8021,CLI-1022,Químicos,366,pallets,10-Jun-2025,BOD-01,2030.23,kg
+DES-8022,CLI-1026,Textiles,463,ton,01-Jun-2025,BOD-01,11487.54,kg
+DES-8023,CLI-1035,Químicos,14,lb,08-May-2025,BOD-03,235.24,lb
+DES-8024,CLI-1005,Materiales de construcción,325,kg,28-Feb-2025,BOD-01,1813.24,kg
+DES-8025,CLI-1048,Alimentos,448,pallets,02-Jun-2025,BOD-02,,lb
+DES-8026,CLI-1019,Electrodomésticos,311,kg,11-Mar-2025,BOD-01,7447.61,kg
+DES-8027,CLI-1019,Químicos,75,pallets,07-Mar-2025,BOD-03,1659.47,lb
+DES-8028,CLI-1030,Textiles,337,kg,27-May-2025,BOD-02,1209.6,lb
+DES-8029,cliente_1031,Electrodomésticos,423,pallets,11-Mar-2025,BOD-04,8654.57,lb
+DES-8030,CLI-1021,Químicos,362,ton,02-Jun-2025,BOD-03,7048.25,kg
+DES-8031,CLI-1010,Materiales de construcción,473,ton,18-May-2025,BOD-01,6342.97,kg
+DES-8032,CLI-1015,Alimentos,117,kg,26-Apr-2025,BOD-03,1282.76,lb
+DES-8033,CLI-1043,Químicos,258,cajas,16-Jun-2025,BOD-01,3989.94,lb
+DES-8034,CLI-1017,Alimentos,420,pallets,01-Mar-2025,BOD-03,7763.54,lb
+DES-8035,CLI-1036,Químicos,181,ton,22-Jan-2025,BOD-03,2911.63,kg
+DES-8036,CLI-1030,Alimentos,469,lb,30-Jun-2025,BOD-03,7125.36,kg
+DES-8037,CLI-1032,Materiales de construcción,260,lb,23-May-2025,BOD-04,6279.39,kg
+DES-8038,CLI-1043,Electrodomésticos,371,lb,18-May-2025,BOD-02,4080.74,lb
+DES-8039,CLI-1048,Electrodomésticos,439,kg,11-Jun-2025,BOD-04,4784.14,lb
+DES-8040,CLI-1014,Alimentos,323,cajas,04-Apr-2025,BOD-01,6235.14,lb
+DES-8041,CLI-1019,Electrodomésticos,323,cajas,27-Apr-2025,BOD-04,2041.61,kg
+DES-8042,CLI-1003,Materiales de construcción,499,ton,05-Apr-2025,BOD-02,995.57,kg
+DES-8043,CLI-1025,Textiles,438,kg,27-Jan-2025,BOD-03,6395.84,kg
+DES-8044,CLI-1011,Alimentos,84,ton,17-May-2025,BOD-02,670.33,kg
+DES-8045,CLI-1030,Químicos,220,pallets,17-Jan-2025,BOD-03,2459.47,kg
+DES-8046,CLI-1005,Materiales de construcción,27,lb,04-Jan-2025,BOD-02,615.46,kg
+DES-8047,CLI-1004,Alimentos,455,ton,28-Apr-2025,BOD-02,4404.78,lb
+DES-8048,CLI-1025,Químicos,63,lb,27-Mar-2025,BOD-03,674.88,kg
+DES-8049,CLI-1022,Textiles,309,ton,11-Apr-2025,BOD-04,3822.83,lb
+DES-8050,CLI-1047,Químicos,334,ton,08-May-2025,BOD-01,5315.14,kg
+DES-8051,CLI-1025,Alimentos,329,pallets,17-Jan-2025,BOD-02,5892.27,lb
+DES-8052,CLI-1026,Químicos,388,ton,11-May-2025,BOD-01,1816.79,kg
+DES-8053,CLI-1022,Alimentos,379,ton,24-May-2025,BOD-01,6444.0,lb
+DES-8054,CLI-1021,Alimentos,291,ton,24-Jan-2025,BOD-04,1445.87,lb
+DES-8055,CLI-1013,Materiales de construcción,199,cajas,08-May-2025,BOD-03,1506.43,lb
+DES-8056,cliente_1000,Químicos,297,pallets,09-Jan-2025,BOD-03,746.53,kg
+DES-8057,CLI-1038,Materiales de construcción,43,cajas,06-May-2025,BOD-03,93.69,lb
+DES-8058,CLI-1019,Electrodomésticos,416,lb,05-Jun-2025,BOD-03,2307.64,kg
+DES-8059,CLI-1027,Alimentos,327,pallets,19-Feb-2025,BOD-02,4308.24,lb
+DES-8060,CLI-1042,Materiales de construcción,253,lb,26-Apr-2025,BOD-04,,lb
+DES-8061,CLI-1037,Electrodomésticos,256,kg,05-Apr-2025,BOD-03,4676.98,lb
+DES-8062,CLI-1041,Textiles,336,lb,01-Mar-2025,BOD-04,5578.42,kg
+DES-8063,CLI-1021,Químicos,419,pallets,15-Feb-2025,BOD-01,8730.57,lb
+DES-8064,cliente_1049,Materiales de construcción,449,kg,08-May-2025,BOD-02,3507.69,kg
+DES-8065,CLI-1022,Textiles,194,pallets,02-May-2025,BOD-01,4822.0,kg
+DES-8066,CLI-1007,Electrodomésticos,496,lb,16-Jun-2025,BOD-04,,kg
+DES-8067,CLI-1049,Alimentos,324,lb,08-Mar-2025,BOD-01,6660.42,lb
+DES-8068,CLI-1044,Materiales de construcción,257,ton,16-Feb-2025,BOD-03,3077.14,lb
+DES-8069,CLI-1025,Alimentos,63,ton,31-Mar-2025,BOD-04,508.47,lb
+DES-8070,CLI-1034,Alimentos,458,lb,01-May-2025,BOD-03,1930.65,kg
+DES-8071,CLI-1034,Alimentos,200,lb,22-May-2025,BOD-03,2481.32,lb
+DES-8072,CLI-1031,Alimentos,485,pallets,31-Jan-2025,BOD-04,5024.64,kg
+DES-8073,CLI-1033,Alimentos,331,kg,22-Feb-2025,BOD-02,2098.29,lb
+DES-8074,CLI-1028,Electrodomésticos,163,kg,30-Apr-2025,BOD-03,1680.69,lb
+DES-8075,CLI-1040,Electrodomésticos,140,cajas,25-Jun-2025,BOD-04,2540.85,kg
+DES-8076,CLI-1018,Electrodomésticos,294,lb,27-Mar-2025,BOD-03,7311.78,kg
+DES-8077,CLI-1031,Alimentos,200,cajas,10-Jan-2025,BOD-04,224.45,lb
+DES-8078,CLI-1006,Electrodomésticos,49,cajas,04-Apr-2025,BOD-01,815.69,kg
+DES-8079,CLI-1048,Electrodomésticos,234,kg,12-Apr-2025,BOD-03,3411.32,lb
+DES-8080,CLI-1034,Químicos,368,pallets,19-Feb-2025,BOD-03,3013.37,kg
+DES-8081,CLI-1025,Textiles,66,lb,30-May-2025,BOD-04,752.84,kg
+DES-8082,CLI-1022,Textiles,414,cajas,06-May-2025,BOD-03,9124.64,lb
+DES-8083,CLI-1045,Materiales de construcción,314,cajas,15-Jan-2025,BOD-01,3653.12,kg
+DES-8084,CLI-1034,Materiales de construcción,119,lb,23-Jan-2025,BOD-02,2394.36,kg
+DES-8085,CLI-1048,Textiles,323,kg,22-Jan-2025,BOD-02,534.45,lb
+DES-8086,CLI-1019,Textiles,262,lb,08-Jun-2025,BOD-04,2731.91,kg
+DES-8087,CLI-1020,Químicos,374,pallets,19-Apr-2025,BOD-01,8898.21,lb
+DES-8088,C-1033,Electrodomésticos,110,kg,20-Jun-2025,BOD-04,1870.2,kg
+DES-8089,CLI-1023,Químicos,441,lb,25-May-2025,BOD-04,9127.32,kg
+DES-8090,CLI-1021,Textiles,495,cajas,07-Mar-2025,BOD-04,10068.08,lb
+DES-8091,CLI-1045,Electrodomésticos,82,pallets,17-May-2025,BOD-04,1927.4,kg
+DES-8092,CLI-1005,Textiles,354,ton,21-Feb-2025,BOD-01,2465.41,kg
+DES-8093,CLI-1020,Textiles,422,cajas,22-Jan-2025,BOD-04,8375.9,kg
+DES-8094,CLI-1021,Materiales de construcción,452,lb,13-Apr-2025,BOD-04,10898.69,lb
+DES-8095,CLI-1024,Alimentos,368,ton,18-Feb-2025,BOD-03,,kg
+DES-8096,CLI-1007,Materiales de construcción,59,pallets,25-Jun-2025,BOD-03,152.84,lb
+DES-8097,CLI-1028,Textiles,271,kg,27-Jun-2025,BOD-02,520.18,kg
+DES-8098,CLI-1044,Materiales de construcción,120,cajas,24-Apr-2025,BOD-03,2354.15,lb
+DES-8099,CLI-1031,Electrodomésticos,143,cajas,22-Jun-2025,BOD-02,169.25,kg
+DES-8100,CLI-1016,Materiales de construcción,134,ton,06-Mar-2025,BOD-03,3267.19,kg
+DES-8101,CLI-1007,Textiles,236,ton,20-May-2025,BOD-04,184.02,kg
+DES-8102,CLI-1032,Químicos,459,cajas,19-Mar-2025,BOD-04,749.15,kg
+DES-8103,CLI-1026,Químicos,232,kg,21-May-2025,BOD-04,2260.1,lb
+DES-8104,CLI-1000,Químicos,225,cajas,22-Jan-2025,BOD-04,1135.3,kg
+DES-8105,CLI-1031,Textiles,31,lb,24-May-2025,BOD-04,441.51,lb
+DES-8106,CLI-1006,Materiales de construcción,209,pallets,26-Feb-2025,BOD-02,4641.51,kg
+DES-8107,CLI-1024,Alimentos,345,lb,15-Apr-2025,BOD-04,4122.08,kg
+DES-8108,CLI-1037,Materiales de construcción,52,cajas,12-Jan-2025,BOD-02,802.15,kg
+DES-8109,CLI-1024,Alimentos,417,pallets,13-Jan-2025,BOD-04,6799.91,kg
+DES-8110,CLI-1019,Textiles,182,kg,05-Jun-2025,BOD-01,641.16,kg
+DES-8111,CLI-1047,Alimentos,296,pallets,27-Jan-2025,BOD-04,7352.64,kg
+DES-8112,CLI-1037,Químicos,247,kg,01-May-2025,BOD-02,836.76,lb
+DES-8113,CLI-1015,Electrodomésticos,316,ton,16-Jun-2025,BOD-02,6204.18,lb
+DES-8114,CLI-1010,Químicos,417,kg,06-Feb-2025,BOD-01,4534.61,kg
+DES-8115,CLI-1035,Materiales de construcción,243,lb,16-Mar-2025,BOD-01,964.3,kg
+DES-8116,CLI-1012,Alimentos,289,ton,11-May-2025,BOD-02,4976.54,kg
+DES-8117,CLI-1000,Químicos,195,cajas,05-Mar-2025,BOD-01,2390.79,lb
+DES-8118,CLI-1016,Químicos,303,ton,30-Mar-2025,BOD-01,6655.09,kg
+DES-8119,CLI-1019,Electrodomésticos,474,kg,12-Feb-2025,BOD-02,2436.48,lb
+DES-8120,CLI-1023,Materiales de construcción,497,pallets,08-May-2025,BOD-01,11593.73,lb
+DES-8121,CLI-1048,Materiales de construcción,242,kg,10-May-2025,BOD-01,,kg
+DES-8122,CLI-1012,Electrodomésticos,186,cajas,12-May-2025,BOD-01,4163.55,lb
+DES-8123,CLI-1004,Textiles,139,cajas,04-Jan-2025,BOD-01,3349.6,lb
+DES-8124,CLI-1034,Textiles,399,pallets,03-Jun-2025,BOD-02,2536.51,lb
+DES-8125,CLI-1035,Alimentos,69,pallets,30-Apr-2025,BOD-04,820.22,lb
+DES-8126,CLI-1003,Electrodomésticos,208,lb,01-Mar-2025,BOD-03,4903.12,lb
+DES-8127,CLI-1043,Textiles,441,kg,16-Jun-2025,BOD-02,702.46,kg
+DES-8128,CLI-1011,Alimentos,307,cajas,28-Apr-2025,BOD-04,6893.79,lb
+DES-8129,CLI-1021,Electrodomésticos,409,kg,23-Mar-2025,BOD-03,9191.94,kg
+DES-8130,CLI-1037,Alimentos,368,cajas,25-Feb-2025,BOD-01,9117.3,lb
+DES-8131,CLI-1001,Alimentos,442,lb,14-Feb-2025,BOD-01,5148.35,lb
+DES-8132,CLI-1037,Alimentos,421,cajas,16-Apr-2025,BOD-01,1319.34,lb
+DES-8133,CLI-1036,Químicos,210,lb,28-Apr-2025,BOD-03,3570.73,lb
+DES-8134,CLI-1026,Alimentos,246,ton,16-May-2025,BOD-04,1037.3,lb
+DES-8135,CLI-1043,Materiales de construcción,117,lb,12-May-2025,BOD-03,2762.39,kg
+DES-8136,CLI-1048,Textiles,306,kg,09-Jun-2025,BOD-03,7324.92,lb
+DES-8137,CLI-1033,Alimentos,389,cajas,06-Jan-2025,BOD-04,7090.44,kg
+DES-8138,CLI-1041,Químicos,44,ton,14-May-2025,BOD-04,864.77,lb
+DES-8139,CLI-1002,Materiales de construcción,402,cajas,26-Apr-2025,BOD-04,6072.42,lb
+DES-8140,CLI-1002,Textiles,301,pallets,16-Apr-2025,BOD-04,1793.69,lb
+DES-8141,CLI-1037,Textiles,460,cajas,23-Jan-2025,BOD-01,851.81,lb
+DES-8142,CLI-1048,Textiles,193,kg,07-Feb-2025,BOD-04,911.65,kg
+DES-8143,CLI-1026,Materiales de construcción,471,ton,16-Mar-2025,BOD-02,2910.68,kg
+DES-8144,CLI-1003,Textiles,120,pallets,01-Jun-2025,BOD-03,882.97,kg
+DES-8145,CLI-1025,Electrodomésticos,437,cajas,27-May-2025,BOD-02,7499.47,kg
+DES-8146,CLI-1025,Materiales de construcción,186,ton,20-Feb-2025,BOD-04,2543.23,lb
+DES-8147,CLI-1020,Textiles,316,lb,25-Jan-2025,BOD-03,2034.97,kg
+DES-8148,CLI-1002,Químicos,451,lb,10-Mar-2025,BOD-03,3399.67,lb
+DES-8149,CLI-1049,Alimentos,135,kg,03-Feb-2025,BOD-01,913.97,lb
+DES-8150,CLI-1022,Alimentos,473,ton,16-May-2025,BOD-03,3105.6,lb
+DES-8151,CLI-1026,Alimentos,77,lb,27-Mar-2025,BOD-04,1089.53,lb
+DES-8152,CLI-1035,Materiales de construcción,336,cajas,23-May-2025,BOD-01,5755.35,kg
+DES-8153,CLI-1014,Materiales de construcción,496,ton,13-Feb-2025,BOD-02,11035.5,lb
+DES-8154,CLI-1002,Electrodomésticos,328,lb,27-May-2025,BOD-04,7577.24,kg
+DES-8155,CLI-1034,Químicos,299,pallets,05-May-2025,BOD-04,1636.45,kg
+DES-8156,CLI-1016,Textiles,422,lb,28-May-2025,BOD-04,2006.69,kg
+DES-8157,CLI-1030,Materiales de construcción,210,lb,18-Mar-2025,BOD-04,147.92,kg
+DES-8158,C-1048,Textiles,287,pallets,10-May-2025,BOD-04,175.06,lb
+DES-8159,CLI-1005,Electrodomésticos,101,pallets,07-May-2025,BOD-03,1744.98,kg
+DES-8160,CLI-1001,Textiles,358,ton,17-Jun-2025,BOD-01,6521.82,lb
+DES-8161,CLI-1023,Alimentos,197,lb,21-Jan-2025,BOD-03,2655.71,kg
+DES-8162,CLI-1042,Electrodomésticos,38,lb,17-Apr-2025,BOD-02,833.11,lb
+DES-8163,CLI-1041,Electrodomésticos,409,kg,03-Apr-2025,BOD-04,7027.92,lb
+DES-8164,CLI-1016,Alimentos,97,kg,05-Mar-2025,BOD-04,180.16,lb
+DES-8165,CLI-1018,Materiales de construcción,487,ton,21-Feb-2025,BOD-03,6300.99,lb
+DES-8166,CLI-1009,Textiles,362,pallets,28-Feb-2025,BOD-01,3961.36,kg
+DES-8167,CLI-1016,Alimentos,238,pallets,10-Feb-2025,BOD-02,2459.19,kg
+DES-8168,CLI-1017,Materiales de construcción,185,pallets,30-Jan-2025,BOD-04,124.08,lb
+DES-8169,cliente_1002,Electrodomésticos,299,cajas,12-May-2025,BOD-04,5052.53,kg
+DES-8170,CLI-1039,Textiles,189,kg,28-May-2025,BOD-01,646.26,kg
+DES-8171,CLI-1035,Alimentos,74,ton,05-Mar-2025,BOD-02,1794.76,lb
+DES-8172,CLI-1000,Alimentos,304,ton,07-May-2025,BOD-03,3917.12,kg
+DES-8173,CLI-1021,Materiales de construcción,490,lb,24-Mar-2025,BOD-01,5399.42,kg
+DES-8174,CLI-1038,Químicos,52,lb,04-Jun-2025,BOD-01,1177.74,lb
+DES-8175,CLI-1021,Químicos,164,kg,22-Mar-2025,BOD-03,2337.26,lb
+DES-8176,CLI-1015,Materiales de construcción,220,ton,10-Apr-2025,BOD-03,3350.95,kg
+DES-8177,CLI-1044,Electrodomésticos,101,lb,21-Jun-2025,BOD-04,1850.99,kg
+DES-8178,CLI-1048,Químicos,372,cajas,04-May-2025,BOD-03,2893.47,lb
+DES-8179,CLI-1012,Alimentos,450,lb,12-Jun-2025,BOD-04,2041.82,lb
+DES-8180,CLI-1023,Químicos,66,lb,19-Apr-2025,BOD-03,393.27,kg
+DES-8181,CLI-1010,Materiales de construcción,478,pallets,14-Jan-2025,BOD-03,11107.93,kg
+DES-8182,CLI-1041,Alimentos,74,lb,05-May-2025,BOD-04,1779.31,kg
+DES-8183,CLI-1046,Electrodomésticos,300,lb,07-Jan-2025,BOD-01,3229.28,lb
+DES-8184,C-1030,Textiles,254,cajas,04-Feb-2025,BOD-02,2650.54,kg
+DES-8185,CLI-1008,Alimentos,143,pallets,09-Feb-2025,BOD-02,1517.01,kg
+DES-8186,cliente_1003,Materiales de construcción,399,kg,15-Mar-2025,BOD-01,9118.38,lb
+DES-8187,CLI-1009,Químicos,133,kg,02-Feb-2025,BOD-02,2737.14,lb
+DES-8188,CLI-1019,Electrodomésticos,142,cajas,29-Mar-2025,BOD-01,3128.35,kg
+DES-8189,CLI-1033,Alimentos,74,pallets,28-Feb-2025,BOD-03,1144.42,lb
+DES-8190,CLI-1028,Alimentos,93,ton,01-Jun-2025,BOD-02,1946.92,lb
+DES-8191,CLI-1039,Químicos,360,cajas,07-May-2025,BOD-01,8849.51,kg
+DES-8192,CLI-1038,Electrodomésticos,414,ton,15-Feb-2025,BOD-02,7730.61,lb
+DES-8193,CLI-1046,Textiles,216,lb,03-Jan-2025,BOD-02,866.08,kg
+DES-8194,CLI-1036,Electrodomésticos,370,kg,23-Apr-2025,BOD-04,3870.64,lb
+DES-8195,CLI-1019,Textiles,241,pallets,07-May-2025,BOD-03,1998.71,kg
+DES-8196,CLI-1045,Alimentos,100,ton,04-Feb-2025,BOD-04,1516.79,kg
+DES-8197,CLI-1047,Químicos,236,lb,14-Mar-2025,BOD-02,3714.25,lb
+DES-8198,CLI-1014,Materiales de construcción,214,pallets,07-Jan-2025,BOD-03,4582.8,kg
+DES-8199,CLI-1044,Alimentos,99,pallets,05-May-2025,BOD-02,860.52,kg
+DES-8200,CLI-1015,Materiales de construcción,60,ton,05-Mar-2025,BOD-04,371.69,lb
+DES-8201,CLI-1015,Textiles,35,ton,03-Mar-2025,BOD-03,104.51,kg
+DES-8202,CLI-1009,Alimentos,398,cajas,06-Mar-2025,BOD-03,2060.25,lb
+DES-8203,CLI-1010,Electrodomésticos,133,ton,30-Mar-2025,BOD-03,3050.81,lb
+DES-8204,CLI-1003,Textiles,137,ton,25-Mar-2025,BOD-01,1704.71,kg
+DES-8205,CLI-1023,Alimentos,176,pallets,08-May-2025,BOD-03,2822.02,kg
+DES-8206,CLI-1017,Textiles,87,lb,01-Apr-2025,BOD-03,195.28,kg
+DES-8207,CLI-1023,Alimentos,448,kg,05-Feb-2025,BOD-02,5829.35,kg
+DES-8208,CLI-1031,Materiales de construcción,48,pallets,25-Jan-2025,BOD-03,1086.42,lb
+DES-8209,CLI-1045,Textiles,383,lb,08-Jun-2025,BOD-01,5976.15,lb
+DES-8210,CLI-1007,Alimentos,364,cajas,24-Mar-2025,BOD-04,8648.69,lb
+DES-8211,CLI-1027,Textiles,98,pallets,16-Jun-2025,BOD-02,2403.57,lb
+DES-8212,CLI-1015,Electrodomésticos,440,cajas,05-Feb-2025,BOD-04,1665.9,kg
+DES-8213,CLI-1042,Materiales de construcción,346,lb,22-Apr-2025,BOD-03,1287.08,kg
+DES-8214,C-1029,Químicos,491,kg,22-Mar-2025,BOD-03,,lb
+DES-8215,CLI-1038,Materiales de construcción,347,cajas,11-May-2025,BOD-04,5237.39,lb
+DES-8216,CLI-1004,Alimentos,107,ton,19-Apr-2025,BOD-01,2006.94,kg
+DES-8217,CLI-1006,Electrodomésticos,50,lb,22-Apr-2025,BOD-01,1065.73,kg
+DES-8218,CLI-1038,Textiles,258,pallets,19-May-2025,BOD-01,3529.36,kg
+DES-8219,CLI-1002,Alimentos,419,cajas,18-Jun-2025,BOD-04,9841.32,kg
+DES-8220,CLI-1026,Materiales de construcción,252,pallets,01-Apr-2025,BOD-03,5883.85,kg
+DES-8221,CLI-1022,Electrodomésticos,348,pallets,10-Apr-2025,BOD-04,6643.06,kg
+DES-8222,CLI-1024,Químicos,100,pallets,09-Jan-2025,BOD-04,2375.65,lb
+DES-8223,CLI-1010,Electrodomésticos,380,pallets,03-Feb-2025,BOD-03,4355.56,kg
+DES-8224,cliente_1029,Textiles,190,cajas,14-Mar-2025,BOD-04,2495.89,kg
+DES-8225,CLI-1034,Textiles,35,cajas,07-Jun-2025,BOD-03,106.03,lb
+DES-8226,CLI-1022,Alimentos,321,pallets,25-Feb-2025,BOD-04,7173.26,lb
+DES-8227,CLI-1024,Químicos,144,pallets,13-Jan-2025,BOD-04,1930.75,lb
+DES-8228,CLI-1028,Alimentos,45,pallets,31-Mar-2025,BOD-01,115.11,lb
+DES-8229,CLI-1022,Químicos,33,lb,25-Jun-2025,BOD-03,680.3,kg
+DES-8230,CLI-1019,Textiles,484,kg,09-May-2025,BOD-04,2726.36,kg
+DES-8231,CLI-1001,Electrodomésticos,78,lb,18-May-2025,BOD-04,672.07,kg
+DES-8232,CLI-1015,Químicos,370,cajas,05-May-2025,BOD-01,6322.07,kg
+DES-8233,CLI-1024,Químicos,362,pallets,04-May-2025,BOD-02,7627.85,kg
+DES-8234,CLI-1023,Alimentos,290,cajas,23-Jun-2025,BOD-01,6199.27,kg
+DES-8235,CLI-1016,Electrodomésticos,80,lb,18-Mar-2025,BOD-03,86.6,kg
+DES-8236,CLI-1021,Alimentos,312,kg,15-May-2025,BOD-01,5245.44,kg
+DES-8237,cliente_1036,Químicos,215,cajas,06-Mar-2025,BOD-04,819.16,lb
+DES-8238,CLI-1006,Químicos,119,kg,23-Feb-2025,BOD-02,1593.5,kg
+DES-8239,CLI-1001,Electrodomésticos,307,kg,17-Mar-2025,BOD-03,1337.3,lb
+DES-8240,CLI-1039,Textiles,19,cajas,13-Mar-2025,BOD-04,471.09,lb
+DES-8241,CLI-1020,Alimentos,221,cajas,13-Feb-2025,BOD-04,3863.76,lb
+DES-8242,CLI-1006,Materiales de construcción,320,cajas,11-Feb-2025,BOD-03,1376.79,lb
+DES-8243,CLI-1040,Químicos,38,kg,13-Feb-2025,BOD-02,53.78,kg
+DES-8244,CLI-1018,Electrodomésticos,200,cajas,03-May-2025,BOD-01,1003.82,kg
+DES-8245,CLI-1042,Alimentos,275,pallets,14-Jan-2025,BOD-01,6356.4,kg
+DES-8246,CLI-1049,Materiales de construcción,461,kg,28-Mar-2025,BOD-04,4777.07,kg
+DES-8247,CLI-1045,Materiales de construcción,420,kg,17-Feb-2025,BOD-02,5229.43,lb
+DES-8248,CLI-1049,Alimentos,258,pallets,13-Jan-2025,BOD-04,5183.63,lb
+DES-8249,CLI-1005,Alimentos,81,cajas,15-Apr-2025,BOD-03,1685.9,lb
+DES-8250,CLI-1019,Alimentos,89,kg,08-Feb-2025,BOD-03,1557.94,kg
+DES-8251,CLI-1016,Materiales de construcción,288,cajas,23-Feb-2025,BOD-01,1867.9,lb
+DES-8252,CLI-1015,Químicos,49,lb,04-Apr-2025,BOD-02,1156.6,kg
+DES-8253,CLI-1034,Electrodomésticos,366,ton,13-Apr-2025,BOD-04,5843.85,kg
+DES-8254,CLI-1016,Electrodomésticos,319,ton,25-Jun-2025,BOD-04,209.53,kg
+DES-8255,CLI-1001,Alimentos,242,kg,13-May-2025,BOD-01,5046.93,kg
+DES-8256,CLI-1046,Alimentos,443,cajas,23-Jun-2025,BOD-02,9863.65,lb
+DES-8257,CLI-1026,Materiales de construcción,292,ton,16-Mar-2025,BOD-01,1723.06,kg
+DES-8258,CLI-1017,Electrodomésticos,111,kg,13-May-2025,BOD-01,2622.35,kg
+DES-8259,CLI-1019,Electrodomésticos,495,lb,27-Jan-2025,BOD-02,2146.33,kg
+DES-8260,cliente_1028,Materiales de construcción,352,kg,23-Mar-2025,BOD-04,508.48,lb
+DES-8261,cliente_1026,Electrodomésticos,303,lb,16-Jan-2025,BOD-04,894.5,lb
+DES-8262,CLI-1033,Textiles,45,kg,20-Feb-2025,BOD-03,914.78,lb
+DES-8263,CLI-1048,Químicos,149,lb,03-May-2025,BOD-02,1745.42,lb
+DES-8264,CLI-1038,Alimentos,414,kg,02-May-2025,BOD-03,484.12,kg
+DES-8265,CLI-1028,Alimentos,142,pallets,14-Jun-2025,BOD-04,83.91,kg
+DES-8266,CLI-1015,Materiales de construcción,64,ton,16-Apr-2025,BOD-03,171.49,lb
+DES-8267,CLI-1019,Electrodomésticos,12,cajas,06-Jan-2025,BOD-02,131.43,lb
+DES-8268,CLI-1022,Textiles,491,kg,19-Jun-2025,BOD-01,4427.95,lb
+DES-8269,CLI-1015,Electrodomésticos,360,kg,21-Jan-2025,BOD-04,5860.14,lb
+DES-8270,CLI-1026,Electrodomésticos,94,lb,02-Mar-2025,BOD-01,941.71,lb
+DES-8271,CLI-1001,Electrodomésticos,153,cajas,20-Mar-2025,BOD-04,1815.35,lb
+DES-8272,CLI-1035,Químicos,406,pallets,17-May-2025,BOD-03,5263.69,kg
+DES-8273,CLI-1029,Electrodomésticos,469,ton,14-Apr-2025,BOD-01,11589.73,lb
+DES-8274,CLI-1029,Electrodomésticos,395,kg,27-Apr-2025,BOD-02,6525.06,lb
+DES-8275,CLI-1036,Alimentos,314,ton,21-Feb-2025,BOD-04,4217.4,kg
+DES-8276,cliente_1004,Químicos,64,pallets,19-Apr-2025,BOD-01,467.95,kg
+DES-8277,CLI-1010,Electrodomésticos,147,lb,17-Mar-2025,BOD-03,,lb
+DES-8278,CLI-1028,Alimentos,126,ton,06-Mar-2025,BOD-03,2111.51,lb
+DES-8279,CLI-1044,Alimentos,201,ton,04-Mar-2025,BOD-01,2464.48,kg
+DES-8280,CLI-1013,Textiles,194,ton,01-Jan-2025,BOD-03,3030.5,kg
+DES-8281,CLI-1024,Químicos,188,ton,14-Apr-2025,BOD-01,4503.07,lb
+DES-8282,C-1041,Químicos,130,kg,28-Apr-2025,BOD-03,2496.27,kg
+DES-8283,CLI-1017,Materiales de construcción,263,ton,25-Feb-2025,BOD-03,5581.4,lb
+DES-8284,CLI-1021,Textiles,437,pallets,12-Feb-2025,BOD-04,6143.56,kg
+DES-8285,CLI-1016,Electrodomésticos,483,ton,16-Mar-2025,BOD-02,9602.16,lb
+DES-8286,CLI-1038,Químicos,235,kg,21-Apr-2025,BOD-03,2212.29,kg
+DES-8287,CLI-1030,Textiles,432,lb,03-May-2025,BOD-02,1469.59,kg
+DES-8288,CLI-1024,Textiles,183,kg,16-Apr-2025,BOD-02,4281.16,lb
+DES-8289,CLI-1048,Alimentos,211,lb,14-Apr-2025,BOD-04,,lb
+DES-8290,CLI-1042,Alimentos,194,cajas,03-Jan-2025,BOD-02,1287.8,kg
+DES-8291,CLI-1030,Electrodomésticos,380,pallets,15-Apr-2025,BOD-02,3561.3,kg
+DES-8292,CLI-1038,Electrodomésticos,178,kg,10-Jun-2025,BOD-04,4384.2,kg
+DES-8293,CLI-1003,Electrodomésticos,411,kg,25-Jun-2025,BOD-01,1042.92,lb
+DES-8294,CLI-1027,Electrodomésticos,222,kg,02-Jun-2025,BOD-02,3166.89,lb
+DES-8295,CLI-1049,Materiales de construcción,330,pallets,22-Jan-2025,BOD-01,7081.04,kg
+DES-8296,CLI-1003,Materiales de construcción,272,ton,18-Jun-2025,BOD-03,4574.29,lb
+DES-8297,CLI-1036,Materiales de construcción,36,pallets,17-Apr-2025,BOD-02,191.44,kg
+DES-8298,CLI-1004,Electrodomésticos,145,lb,16-May-2025,BOD-04,2474.95,lb
+DES-8299,C-1040,Textiles,331,cajas,05-Apr-2025,BOD-04,734.85,kg
+DES-8300,CLI-1008,Electrodomésticos,405,pallets,22-May-2025,BOD-02,410.79,kg
+DES-8301,CLI-1048,Electrodomésticos,279,cajas,15-Mar-2025,BOD-04,2767.11,kg
+DES-8302,CLI-1001,Textiles,107,cajas,09-Mar-2025,BOD-04,1646.19,lb
+DES-8303,CLI-1032,Textiles,172,pallets,01-Jun-2025,BOD-04,3657.86,lb
+DES-8304,CLI-1017,Electrodomésticos,438,ton,08-Feb-2025,BOD-01,7870.39,kg
+DES-8305,CLI-1042,Textiles,185,ton,18-May-2025,BOD-04,3741.36,kg
+DES-8306,CLI-1011,Químicos,464,pallets,06-Mar-2025,BOD-03,7109.79,lb
+DES-8307,CLI-1010,Textiles,170,ton,10-Jun-2025,BOD-03,1160.15,lb
+DES-8308,CLI-1048,Textiles,420,cajas,22-May-2025,BOD-01,9183.99,kg
+DES-8309,CLI-1004,Alimentos,410,ton,26-Feb-2025,BOD-04,,kg
+DES-8310,CLI-1020,Materiales de construcción,265,cajas,24-Jan-2025,BOD-03,4693.35,kg
+DES-8311,CLI-1049,Químicos,367,ton,08-May-2025,BOD-04,8537.24,kg
+DES-8312,CLI-1010,Alimentos,305,kg,08-Feb-2025,BOD-03,7285.22,kg
+DES-8313,CLI-1029,Textiles,69,cajas,20-Feb-2025,BOD-04,702.7,kg
+DES-8314,C-1013,Textiles,107,lb,13-May-2025,BOD-01,1456.49,kg
+DES-8315,CLI-1011,Materiales de construcción,173,lb,22-Jun-2025,BOD-04,,kg
+DES-8316,CLI-1046,Químicos,479,pallets,24-Feb-2025,BOD-03,11702.1,lb
+DES-8317,CLI-1048,Alimentos,44,pallets,15-Jun-2025,BOD-03,797.96,lb
+DES-8318,CLI-1043,Electrodomésticos,47,kg,08-May-2025,BOD-02,1160.77,lb
+DES-8319,CLI-1000,Textiles,373,pallets,20-Apr-2025,BOD-03,3777.43,lb
+DES-8320,CLI-1027,Electrodomésticos,62,ton,08-Apr-2025,BOD-03,1140.3,kg
+DES-8321,CLI-1013,Textiles,25,kg,20-May-2025,BOD-03,256.23,kg
+DES-8322,CLI-1002,Materiales de construcción,368,ton,29-May-2025,BOD-03,9147.94,kg
+DES-8323,CLI-1032,Químicos,124,ton,29-Jan-2025,BOD-04,2136.81,kg
+DES-8324,CLI-1005,Textiles,335,cajas,05-Mar-2025,BOD-04,8223.9,lb
+DES-8325,CLI-1034,Alimentos,86,ton,04-Jan-2025,BOD-02,56.87,lb
+DES-8326,CLI-1001,Materiales de construcción,161,ton,23-May-2025,BOD-03,3352.87,kg
+DES-8327,CLI-1027,Textiles,260,pallets,22-Apr-2025,BOD-04,2208.19,kg
+DES-8328,CLI-1039,Alimentos,190,lb,29-Jan-2025,BOD-01,180.28,lb
+DES-8329,CLI-1005,Electrodomésticos,272,kg,10-Jun-2025,BOD-03,4867.48,kg
+DES-8330,CLI-1027,Textiles,116,kg,05-Jan-2025,BOD-04,88.51,lb
+DES-8331,C-1008,Textiles,133,lb,11-Jan-2025,BOD-02,75.69,kg
+DES-8332,CLI-1042,Alimentos,359,ton,15-Jun-2025,BOD-02,8937.75,lb
+DES-8333,CLI-1013,Materiales de construcción,68,cajas,28-May-2025,BOD-01,1474.21,kg
+DES-8334,CLI-1026,Químicos,123,kg,22-Apr-2025,BOD-04,2581.23,lb
+DES-8335,CLI-1046,Alimentos,14,ton,22-Feb-2025,BOD-03,135.22,lb
+DES-8336,CLI-1004,Electrodomésticos,209,kg,25-Apr-2025,BOD-03,3075.85,kg
+DES-8337,CLI-1001,Materiales de construcción,157,lb,30-Mar-2025,BOD-01,462.58,kg
+DES-8338,CLI-1031,Químicos,163,ton,01-Jun-2025,BOD-02,2141.05,kg
+DES-8339,CLI-1018,Electrodomésticos,70,lb,04-Jan-2025,BOD-01,1156.95,lb
+DES-8340,CLI-1039,Materiales de construcción,371,cajas,31-Jan-2025,BOD-02,,kg
+DES-8341,C-1045,Alimentos,200,ton,09-Mar-2025,BOD-02,752.48,kg
+DES-8342,CLI-1020,Materiales de construcción,438,pallets,22-Feb-2025,BOD-04,7043.5,kg
+DES-8343,CLI-1022,Alimentos,388,kg,23-Mar-2025,BOD-04,1851.44,lb
+DES-8344,CLI-1047,Textiles,315,lb,12-Jan-2025,BOD-01,1051.28,lb
+DES-8345,CLI-1049,Textiles,428,lb,27-Mar-2025,BOD-04,8967.96,lb
+DES-8346,CLI-1028,Materiales de construcción,292,pallets,18-Feb-2025,BOD-01,1727.39,lb
+DES-8347,CLI-1017,Materiales de construcción,310,kg,02-Mar-2025,BOD-03,7054.87,lb
+DES-8348,CLI-1034,Materiales de construcción,13,pallets,01-May-2025,BOD-04,27.97,lb
+DES-8349,CLI-1008,Textiles,321,ton,10-Apr-2025,BOD-03,7707.47,lb
+DES-8350,CLI-1042,Alimentos,315,ton,14-Jan-2025,BOD-03,4506.55,lb
+DES-8351,CLI-1020,Químicos,263,pallets,05-Jun-2025,BOD-01,4517.07,lb
+DES-8352,CLI-1037,Materiales de construcción,124,kg,22-Mar-2025,BOD-04,,kg
+DES-8353,C-1028,Alimentos,176,kg,26-Jan-2025,BOD-01,2457.41,lb
+DES-8354,CLI-1033,Materiales de construcción,247,kg,30-Jan-2025,BOD-02,1222.05,kg
+DES-8355,CLI-1012,Químicos,373,pallets,05-Jun-2025,BOD-01,257.44,kg
+DES-8356,CLI-1017,Químicos,231,kg,08-Feb-2025,BOD-02,155.3,lb
+DES-8357,CLI-1017,Químicos,472,kg,04-Feb-2025,BOD-02,,lb
+DES-8358,CLI-1036,Materiales de construcción,74,cajas,01-Feb-2025,BOD-03,1298.72,kg
+DES-8359,CLI-1014,Textiles,276,cajas,23-May-2025,BOD-03,6105.57,kg
+DES-8360,CLI-1032,Alimentos,385,pallets,11-Jun-2025,BOD-04,5026.93,kg
+DES-8361,CLI-1034,Alimentos,407,ton,31-May-2025,BOD-04,7150.41,kg
+DES-8362,CLI-1045,Materiales de construcción,14,kg,02-May-2025,BOD-04,208.47,lb
+DES-8363,CLI-1017,Alimentos,246,lb,23-Mar-2025,BOD-01,5245.94,kg
+DES-8364,cliente_1028,Químicos,307,ton,21-Apr-2025,BOD-04,4969.14,lb
+DES-8365,CLI-1018,Textiles,162,cajas,05-Apr-2025,BOD-01,2817.11,kg
+DES-8366,CLI-1046,Alimentos,137,lb,03-Jun-2025,BOD-02,3159.51,lb
+DES-8367,CLI-1040,Materiales de construcción,389,kg,03-May-2025,BOD-04,3662.4,lb
+DES-8368,CLI-1028,Materiales de construcción,397,ton,25-Jun-2025,BOD-03,4250.95,kg
+DES-8369,CLI-1024,Químicos,279,lb,27-Feb-2025,BOD-01,,kg
+DES-8370,CLI-1003,Químicos,343,kg,28-Jun-2025,BOD-04,8216.18,kg
+DES-8371,cliente_1043,Textiles,171,kg,19-Jun-2025,BOD-01,2146.44,kg
+DES-8372,CLI-1024,Materiales de construcción,90,ton,19-Feb-2025,BOD-03,,kg
+DES-8373,CLI-1012,Químicos,307,pallets,06-Jun-2025,BOD-02,7328.52,lb
+DES-8374,CLI-1043,Electrodomésticos,382,ton,27-Feb-2025,BOD-02,,lb
+DES-8375,CLI-1020,Textiles,91,cajas,04-Mar-2025,BOD-03,1848.86,lb
+DES-8376,CLI-1039,Químicos,89,lb,07-Jun-2025,BOD-01,,kg
+DES-8377,CLI-1015,Alimentos,256,cajas,22-Jan-2025,BOD-04,5096.75,lb
+DES-8378,CLI-1002,Materiales de construcción,134,lb,24-Mar-2025,BOD-03,2348.23,kg
+DES-8379,CLI-1009,Electrodomésticos,30,cajas,02-Feb-2025,BOD-03,69.13,lb
+DES-8380,cliente_1019,Alimentos,489,lb,27-May-2025,BOD-04,9819.26,kg
+DES-8381,CLI-1049,Textiles,65,pallets,26-May-2025,BOD-01,1555.81,kg
+DES-8382,CLI-1030,Electrodomésticos,441,cajas,25-Mar-2025,BOD-04,8161.19,kg
+DES-8383,CLI-1009,Textiles,455,ton,24-May-2025,BOD-02,7542.66,kg
+DES-8384,CLI-1023,Químicos,161,lb,22-Apr-2025,BOD-03,1060.05,kg
+DES-8385,CLI-1016,Alimentos,199,lb,02-Apr-2025,BOD-03,348.42,lb
+DES-8386,CLI-1013,Alimentos,229,kg,11-May-2025,BOD-04,4424.26,lb
+DES-8387,CLI-1013,Textiles,340,ton,08-May-2025,BOD-02,4972.73,kg
+DES-8388,CLI-1016,Químicos,28,kg,15-May-2025,BOD-02,288.61,lb
+DES-8389,CLI-1046,Textiles,495,cajas,25-May-2025,BOD-02,11731.59,kg
+DES-8390,CLI-1009,Electrodomésticos,298,cajas,08-Apr-2025,BOD-01,3072.4,lb
+DES-8391,CLI-1049,Materiales de construcción,29,cajas,17-Jun-2025,BOD-01,666.52,kg
+DES-8392,CLI-1021,Electrodomésticos,98,kg,16-Jan-2025,BOD-02,656.1,kg
+DES-8393,CLI-1029,Químicos,316,cajas,11-Feb-2025,BOD-04,1569.53,kg
+DES-8394,CLI-1035,Textiles,361,ton,26-Jun-2025,BOD-01,6731.03,kg
+DES-8395,CLI-1036,Químicos,410,pallets,07-Feb-2025,BOD-01,8744.26,kg
+DES-8396,CLI-1001,Químicos,53,ton,17-Feb-2025,BOD-01,1150.86,kg
+DES-8397,CLI-1009,Materiales de construcción,129,cajas,29-Apr-2025,BOD-03,639.18,kg
+DES-8398,CLI-1020,Alimentos,327,pallets,27-Mar-2025,BOD-04,,kg
+DES-8399,CLI-1003,Químicos,109,ton,15-Feb-2025,BOD-01,2618.14,kg
+DES-8400,CLI-1026,Materiales de construcción,293,kg,18-Mar-2025,BOD-04,,lb
+DES-8401,CLI-1032,Materiales de construcción,175,ton,14-Mar-2025,BOD-04,143.84,lb
+DES-8402,CLI-1044,Electrodomésticos,341,cajas,12-Mar-2025,BOD-02,5974.99,lb
+DES-8403,CLI-1021,Textiles,195,cajas,28-Feb-2025,BOD-04,3417.27,lb
+DES-8404,CLI-1031,Materiales de construcción,473,pallets,08-Mar-2025,BOD-04,278.26,lb
+DES-8405,CLI-1026,Alimentos,255,cajas,28-Apr-2025,BOD-04,667.35,lb
+DES-8406,CLI-1009,Materiales de construcción,166,ton,17-Apr-2025,BOD-01,3318.56,kg
+DES-8407,CLI-1032,Textiles,467,cajas,30-Jun-2025,BOD-01,8327.72,lb
+DES-8408,CLI-1016,Electrodomésticos,234,kg,03-Jan-2025,BOD-02,5079.98,kg
+DES-8409,CLI-1041,Materiales de construcción,492,cajas,11-Jan-2025,BOD-04,9028.98,lb
+DES-8410,CLI-1034,Materiales de construcción,15,ton,25-Jan-2025,BOD-04,146.41,lb
+DES-8411,CLI-1036,Alimentos,335,kg,09-Feb-2025,BOD-02,7534.28,kg
+DES-8412,CLI-1048,Alimentos,78,pallets,27-Jun-2025,BOD-02,1917.48,lb
+DES-8413,CLI-1005,Químicos,415,kg,26-Jan-2025,BOD-01,10142.21,lb
+DES-8414,CLI-1035,Electrodomésticos,277,cajas,06-Jan-2025,BOD-01,3336.85,lb
+DES-8415,CLI-1031,Electrodomésticos,197,ton,14-Jan-2025,BOD-04,3230.24,kg
+DES-8416,CLI-1030,Alimentos,39,lb,28-Feb-2025,BOD-04,951.15,lb
+DES-8417,CLI-1046,Químicos,315,cajas,01-May-2025,BOD-02,5159.34,lb
+DES-8418,CLI-1026,Electrodomésticos,352,kg,25-Mar-2025,BOD-01,477.73,kg
+DES-8419,CLI-1003,Químicos,36,kg,12-May-2025,BOD-03,42.76,kg
+DES-8420,CLI-1000,Alimentos,34,ton,05-Apr-2025,BOD-03,487.93,kg
+DES-8421,CLI-1043,Textiles,370,pallets,14-Feb-2025,BOD-01,293.37,kg
+DES-8422,CLI-1039,Químicos,196,pallets,07-Jun-2025,BOD-03,3211.72,lb
+DES-8423,CLI-1040,Textiles,454,pallets,21-Apr-2025,BOD-04,8548.85,lb
+DES-8424,CLI-1048,Textiles,187,ton,14-Apr-2025,BOD-03,3158.29,kg
+DES-8425,CLI-1003,Alimentos,52,cajas,14-Mar-2025,BOD-03,1017.89,kg
+DES-8426,CLI-1028,Alimentos,30,lb,25-Jan-2025,BOD-02,352.06,kg
+DES-8427,C-1028,Químicos,417,cajas,01-Jun-2025,BOD-04,4083.83,kg
+DES-8428,CLI-1047,Químicos,402,kg,18-May-2025,BOD-03,5090.09,kg
+DES-8429,CLI-1029,Alimentos,316,kg,07-Apr-2025,BOD-03,4922.25,lb
+DES-8430,CLI-1033,Materiales de construcción,50,lb,15-Mar-2025,BOD-01,656.5,kg
+DES-8431,CLI-1021,Materiales de construcción,215,ton,19-Mar-2025,BOD-01,3656.95,lb
+DES-8432,CLI-1016,Alimentos,179,kg,29-May-2025,BOD-04,1006.51,lb
+DES-8433,CLI-1023,Textiles,172,ton,28-Apr-2025,BOD-01,495.48,kg
+DES-8434,CLI-1005,Electrodomésticos,476,pallets,11-Apr-2025,BOD-01,11458.71,lb
+DES-8435,CLI-1026,Químicos,469,pallets,10-Jun-2025,BOD-03,7088.06,kg
+DES-8436,CLI-1004,Textiles,192,pallets,16-Apr-2025,BOD-02,342.09,lb
+DES-8437,CLI-1046,Textiles,343,lb,17-May-2025,BOD-01,7606.49,kg
+DES-8438,CLI-1042,Químicos,145,ton,03-Apr-2025,BOD-04,2426.73,kg
+DES-8439,CLI-1000,Alimentos,445,lb,21-Mar-2025,BOD-02,9191.29,lb
+DES-8440,CLI-1035,Electrodomésticos,377,pallets,06-Feb-2025,BOD-03,4534.09,lb
+DES-8441,CLI-1038,Materiales de construcción,153,cajas,23-Mar-2025,BOD-01,1181.14,kg
+DES-8442,CLI-1029,Electrodomésticos,256,pallets,11-Mar-2025,BOD-04,6316.37,kg
+DES-8443,CLI-1005,Alimentos,230,kg,29-Apr-2025,BOD-04,2008.07,kg
+DES-8444,C-1017,Alimentos,419,ton,10-Jun-2025,BOD-04,4788.06,lb
+DES-8445,CLI-1039,Materiales de construcción,275,pallets,01-May-2025,BOD-04,6475.52,lb
+DES-8446,CLI-1018,Alimentos,178,pallets,11-Mar-2025,BOD-03,4303.8,kg
+DES-8447,CLI-1017,Electrodomésticos,69,pallets,09-Feb-2025,BOD-02,737.66,kg
+DES-8448,CLI-1044,Alimentos,318,cajas,21-Feb-2025,BOD-04,2752.4,kg
+DES-8449,CLI-1044,Materiales de construcción,116,lb,08-Apr-2025,BOD-01,373.12,lb
+DES-8450,CLI-1033,Alimentos,413,lb,07-May-2025,BOD-02,4475.82,lb
+DES-8451,CLI-1026,Electrodomésticos,481,kg,06-Apr-2025,BOD-04,1844.41,kg
+DES-8452,CLI-1044,Textiles,454,kg,30-Apr-2025,BOD-04,3956.41,lb
+DES-8453,CLI-1033,Electrodomésticos,453,lb,01-Mar-2025,BOD-04,616.32,kg
+DES-8454,CLI-1028,Alimentos,133,ton,15-Jan-2025,BOD-04,3195.38,kg
+DES-8455,CLI-1041,Químicos,44,pallets,21-Apr-2025,BOD-02,328.44,lb
+DES-8456,CLI-1022,Químicos,106,kg,28-Jan-2025,BOD-01,597.61,kg
+DES-8457,CLI-1031,Materiales de construcción,443,ton,26-May-2025,BOD-01,10056.62,lb
+DES-8458,CLI-1004,Alimentos,366,lb,03-Apr-2025,BOD-03,4788.45,lb
+DES-8459,CLI-1014,Alimentos,231,lb,17-Mar-2025,BOD-01,1050.72,kg
+DES-8460,CLI-1021,Textiles,48,ton,23-Jun-2025,BOD-04,532.96,kg
+DES-8461,C-1020,Materiales de construcción,149,cajas,05-Jun-2025,BOD-03,715.54,kg
+DES-8462,CLI-1044,Materiales de construcción,156,cajas,12-Jan-2025,BOD-02,247.91,kg
+DES-8463,CLI-1042,Textiles,439,ton,11-Jun-2025,BOD-04,1200.09,kg
+DES-8464,CLI-1013,Textiles,479,kg,26-Feb-2025,BOD-04,,lb
+DES-8465,CLI-1008,Químicos,485,cajas,23-May-2025,BOD-02,5321.98,lb
+DES-8466,CLI-1011,Químicos,83,pallets,04-May-2025,BOD-04,2037.5,kg
+DES-8467,CLI-1009,Electrodomésticos,268,cajas,29-Apr-2025,BOD-02,5591.41,lb
+DES-8468,CLI-1005,Electrodomésticos,218,ton,24-Jun-2025,BOD-02,4509.34,lb
+DES-8469,CLI-1040,Alimentos,426,lb,04-May-2025,BOD-03,9509.31,kg
+DES-8470,CLI-1012,Textiles,449,cajas,13-May-2025,BOD-01,839.81,lb
+DES-8471,CLI-1013,Alimentos,281,lb,02-Jun-2025,BOD-02,559.74,kg
+DES-8472,CLI-1049,Químicos,122,ton,17-Feb-2025,BOD-03,2499.47,lb
+DES-8473,CLI-1001,Alimentos,373,ton,07-Mar-2025,BOD-02,3211.96,lb
+DES-8474,CLI-1018,Químicos,276,pallets,26-Jun-2025,BOD-04,6172.23,lb
+DES-8475,CLI-1041,Electrodomésticos,160,kg,30-Jan-2025,BOD-04,3886.58,kg
+DES-8476,CLI-1023,Materiales de construcción,225,lb,18-Apr-2025,BOD-04,,lb
+DES-8477,CLI-1021,Químicos,321,kg,20-Mar-2025,BOD-03,6028.42,lb
+DES-8478,CLI-1031,Textiles,116,ton,19-Feb-2025,BOD-01,2800.08,kg
+DES-8479,CLI-1018,Materiales de construcción,318,lb,05-Apr-2025,BOD-04,7311.29,lb
+DES-8480,CLI-1001,Electrodomésticos,347,cajas,12-Feb-2025,BOD-03,8165.05,lb
+DES-8481,CLI-1010,Químicos,150,kg,08-May-2025,BOD-01,2412.96,lb
+DES-8482,CLI-1013,Electrodomésticos,53,ton,14-Jan-2025,BOD-02,774.33,kg
+DES-8483,CLI-1044,Electrodomésticos,133,pallets,08-May-2025,BOD-04,535.01,kg
+DES-8484,CLI-1015,Alimentos,227,pallets,09-Jun-2025,BOD-03,,kg
+DES-8485,CLI-1002,Materiales de construcción,354,kg,01-Feb-2025,BOD-02,1969.76,lb
+DES-8486,CLI-1012,Alimentos,216,cajas,07-Jan-2025,BOD-04,2706.38,lb
+DES-8487,CLI-1004,Alimentos,484,cajas,08-Apr-2025,BOD-04,8068.88,lb
+DES-8488,CLI-1029,Materiales de construcción,351,lb,04-Apr-2025,BOD-03,5062.99,lb
+DES-8489,CLI-1023,Electrodomésticos,466,lb,29-Mar-2025,BOD-02,8091.65,lb
+DES-8490,CLI-1008,Materiales de construcción,373,kg,24-Apr-2025,BOD-03,,lb
+DES-8491,CLI-1004,Materiales de construcción,124,pallets,31-Mar-2025,BOD-03,459.92,lb
+DES-8492,CLI-1009,Electrodomésticos,492,cajas,25-Jun-2025,BOD-02,9585.95,kg
+DES-8493,CLI-1025,Alimentos,59,kg,11-Jun-2025,BOD-02,163.25,lb
+DES-8494,CLI-1031,Alimentos,373,lb,24-Mar-2025,BOD-01,7532.31,kg
+DES-8495,CLI-1042,Textiles,252,cajas,11-Jun-2025,BOD-04,1376.12,kg
+DES-8496,CLI-1019,Electrodomésticos,106,lb,25-Jun-2025,BOD-02,1931.92,kg
+DES-8497,CLI-1010,Alimentos,459,lb,08-Jan-2025,BOD-02,6782.81,lb
+DES-8498,CLI-1014,Alimentos,339,kg,30-May-2025,BOD-01,1631.5,kg
+DES-8499,CLI-1035,Electrodomésticos,195,ton,04-Apr-2025,BOD-03,2882.76,kg
+DES-8500,CLI-1045,Electrodomésticos,154,cajas,07-Jun-2025,BOD-01,,kg
+DES-8501,CLI-1009,Alimentos,164,cajas,03-Jan-2025,BOD-01,3918.43,kg
+DES-8502,CLI-1013,Alimentos,389,ton,13-Mar-2025,BOD-03,4702.35,kg
+DES-8503,CLI-1013,Materiales de construcción,402,pallets,26-Apr-2025,BOD-02,8991.17,lb
+DES-8504,CLI-1034,Químicos,54,ton,08-May-2025,BOD-03,1111.05,kg
+DES-8505,CLI-1049,Electrodomésticos,87,kg,16-Feb-2025,BOD-01,1925.3,kg
+DES-8506,CLI-1032,Electrodomésticos,124,kg,26-Jan-2025,BOD-03,1764.75,kg
+DES-8507,CLI-1039,Materiales de construcción,496,pallets,17-Jan-2025,BOD-01,7276.66,lb
+DES-8508,CLI-1019,Alimentos,90,ton,03-Feb-2025,BOD-01,1535.8,kg
+DES-8509,CLI-1032,Textiles,45,ton,21-Feb-2025,BOD-04,1085.56,kg
+DES-8510,CLI-1006,Químicos,87,ton,26-Apr-2025,BOD-04,,lb
+DES-8511,CLI-1045,Electrodomésticos,476,cajas,22-Jan-2025,BOD-02,8293.9,kg
+DES-8512,CLI-1039,Electrodomésticos,464,pallets,05-May-2025,BOD-01,3881.8,kg
+DES-8513,cliente_1007,Textiles,379,ton,10-Feb-2025,BOD-02,,lb
+DES-8514,CLI-1037,Alimentos,230,kg,07-May-2025,BOD-03,5154.75,lb
+DES-8515,CLI-1049,Químicos,186,kg,10-May-2025,BOD-03,3515.9,kg
+DES-8516,CLI-1022,Químicos,87,ton,23-Jan-2025,BOD-02,294.32,kg
+DES-8517,CLI-1012,Químicos,338,pallets,20-Jan-2025,BOD-01,2781.3,lb
+DES-8518,CLI-1001,Textiles,398,pallets,09-Jun-2025,BOD-02,788.22,lb
+DES-8519,CLI-1029,Electrodomésticos,16,lb,06-Jun-2025,BOD-03,165.82,lb
+DES-8520,CLI-1025,Materiales de construcción,135,ton,06-Mar-2025,BOD-04,263.52,lb
+DES-8521,CLI-1006,Alimentos,277,kg,11-Jan-2025,BOD-04,,kg
+DES-8522,CLI-1017,Electrodomésticos,296,cajas,21-Feb-2025,BOD-02,,kg
+DES-8523,CLI-1001,Químicos,182,pallets,08-May-2025,BOD-03,4022.43,kg
+DES-8524,cliente_1039,Textiles,134,cajas,31-Mar-2025,BOD-01,2827.12,lb
+DES-8525,CLI-1011,Textiles,278,lb,24-May-2025,BOD-02,4810.64,lb
+DES-8526,CLI-1047,Alimentos,192,lb,30-Jan-2025,BOD-01,4302.15,lb
+DES-8527,CLI-1001,Textiles,480,lb,14-May-2025,BOD-02,5277.58,kg
+DES-8528,CLI-1035,Químicos,110,cajas,30-May-2025,BOD-02,446.77,kg
+DES-8529,CLI-1034,Electrodomésticos,26,lb,05-Mar-2025,BOD-03,292.63,lb
+DES-8530,CLI-1026,Químicos,470,lb,16-May-2025,BOD-04,11102.05,lb
+DES-8531,CLI-1006,Químicos,128,cajas,24-Jan-2025,BOD-01,1319.42,kg
+DES-8532,CLI-1029,Alimentos,186,ton,31-May-2025,BOD-04,1914.14,kg
+DES-8533,CLI-1016,Alimentos,272,lb,06-Jan-2025,BOD-01,875.09,lb
+DES-8534,CLI-1016,Electrodomésticos,199,cajas,19-Feb-2025,BOD-01,3545.18,kg
+DES-8535,CLI-1044,Químicos,466,kg,22-Jan-2025,BOD-04,1583.21,lb
+DES-8536,CLI-1024,Electrodomésticos,450,ton,07-Apr-2025,BOD-01,5918.28,kg
+DES-8537,CLI-1025,Electrodomésticos,410,lb,31-Mar-2025,BOD-03,4012.9,lb
+DES-8538,CLI-1016,Textiles,389,cajas,10-May-2025,BOD-04,5022.24,lb
+DES-8539,CLI-1049,Textiles,265,cajas,25-Jan-2025,BOD-01,1420.64,lb
+DES-8540,CLI-1040,Alimentos,153,lb,28-May-2025,BOD-04,3030.05,kg
+DES-8541,CLI-1000,Textiles,13,kg,28-Jan-2025,BOD-04,211.46,kg
+DES-8542,CLI-1009,Químicos,407,ton,02-Mar-2025,BOD-04,8179.32,lb
+DES-8543,CLI-1017,Textiles,363,kg,21-Jun-2025,BOD-04,6795.99,kg
+DES-8544,CLI-1024,Materiales de construcción,128,pallets,10-Apr-2025,BOD-01,3019.06,lb
+DES-8545,CLI-1043,Químicos,20,pallets,21-Feb-2025,BOD-01,392.64,kg
+DES-8546,CLI-1026,Alimentos,26,pallets,30-Jan-2025,BOD-02,275.36,lb
+DES-8547,CLI-1048,Electrodomésticos,133,lb,21-May-2025,BOD-03,1897.69,kg
+DES-8548,CLI-1047,Químicos,426,cajas,09-Jan-2025,BOD-04,2015.68,lb
+DES-8549,CLI-1036,Alimentos,374,pallets,01-Apr-2025,BOD-01,2980.62,kg
+DES-8550,CLI-1038,Alimentos,140,lb,11-Jun-2025,BOD-04,1537.17,lb
+DES-8551,CLI-1018,Textiles,437,kg,07-May-2025,BOD-03,9262.72,kg
+DES-8552,cliente_1030,Alimentos,96,pallets,02-Jan-2025,BOD-01,1023.86,kg
+DES-8553,CLI-1041,Químicos,114,lb,23-Mar-2025,BOD-03,2004.05,lb
+DES-8554,CLI-1037,Textiles,129,lb,22-Jun-2025,BOD-04,2313.51,kg
+DES-8555,CLI-1010,Químicos,152,pallets,08-Jun-2025,BOD-01,2633.84,kg
+DES-8556,CLI-1003,Electrodomésticos,237,kg,04-May-2025,BOD-01,846.93,lb
+DES-8557,CLI-1040,Alimentos,239,cajas,25-Jan-2025,BOD-02,359.31,lb
+DES-8558,CLI-1049,Materiales de construcción,164,pallets,14-Mar-2025,BOD-03,780.05,kg
+DES-8559,CLI-1020,Alimentos,406,ton,20-May-2025,BOD-02,5011.31,lb
+DES-8560,CLI-1045,Alimentos,450,cajas,21-Jun-2025,BOD-01,7496.48,kg
+DES-8561,CLI-1008,Químicos,463,lb,09-Apr-2025,BOD-04,11014.47,lb
+DES-8562,CLI-1006,Electrodomésticos,184,pallets,25-May-2025,BOD-01,3859.75,lb
+DES-8563,CLI-1002,Materiales de construcción,414,pallets,13-Mar-2025,BOD-01,5153.15,kg
+DES-8564,CLI-1007,Químicos,71,kg,21-Mar-2025,BOD-03,478.34,kg
+DES-8565,CLI-1006,Materiales de construcción,448,pallets,03-Mar-2025,BOD-04,,lb
+DES-8566,CLI-1011,Alimentos,457,cajas,01-Mar-2025,BOD-03,11089.87,kg
+DES-8567,CLI-1015,Químicos,379,cajas,20-Mar-2025,BOD-04,4446.82,kg
+DES-8568,CLI-1030,Materiales de construcción,296,kg,12-Jun-2025,BOD-03,1904.8,lb
+DES-8569,CLI-1006,Textiles,54,pallets,12-Jan-2025,BOD-02,1025.8,lb
+DES-8570,CLI-1030,Materiales de construcción,309,kg,10-Jun-2025,BOD-04,3273.05,kg
+DES-8571,CLI-1009,Materiales de construcción,230,lb,26-Feb-2025,BOD-02,4786.1,lb
+DES-8572,CLI-1029,Electrodomésticos,219,lb,19-Apr-2025,BOD-02,5341.35,kg
+DES-8573,CLI-1000,Textiles,359,cajas,08-Jan-2025,BOD-01,4111.25,kg
+DES-8574,CLI-1031,Materiales de construcción,407,kg,21-May-2025,BOD-04,9367.8,lb
+DES-8575,CLI-1048,Materiales de construcción,125,ton,13-Jan-2025,BOD-01,1810.08,kg
+DES-8576,CLI-1017,Materiales de construcción,148,pallets,14-Feb-2025,BOD-04,1856.93,lb
+DES-8577,CLI-1034,Químicos,452,cajas,26-Jun-2025,BOD-04,4075.47,lb
+DES-8578,CLI-1018,Alimentos,425,lb,14-Apr-2025,BOD-04,1599.77,lb
+DES-8579,CLI-1025,Alimentos,356,lb,27-Jan-2025,BOD-02,4557.71,lb
+DES-8580,CLI-1037,Alimentos,265,cajas,30-May-2025,BOD-01,5710.24,kg
+DES-8581,CLI-1012,Alimentos,180,ton,08-Feb-2025,BOD-02,2019.21,kg
+DES-8582,CLI-1025,Materiales de construcción,125,kg,26-Feb-2025,BOD-04,2093.86,lb
+DES-8583,CLI-1022,Textiles,497,lb,25-Apr-2025,BOD-02,371.59,kg
+DES-8584,CLI-1029,Alimentos,407,kg,09-Apr-2025,BOD-03,1066.45,lb
+DES-8585,CLI-1009,Textiles,149,cajas,18-Apr-2025,BOD-04,1418.23,kg
+DES-8586,CLI-1021,Materiales de construcción,112,cajas,16-Jun-2025,BOD-01,225.71,lb
+DES-8587,CLI-1013,Químicos,380,cajas,04-Jun-2025,BOD-02,1456.19,lb
+DES-8588,C-1014,Textiles,142,ton,12-Feb-2025,BOD-03,2496.39,kg
+DES-8589,CLI-1049,Materiales de construcción,128,cajas,06-Feb-2025,BOD-04,2178.2,kg
+DES-8590,CLI-1021,Materiales de construcción,116,kg,11-Jan-2025,BOD-02,2097.02,kg
+DES-8591,CLI-1000,Materiales de construcción,364,pallets,22-Mar-2025,BOD-02,2420.27,kg
+DES-8592,CLI-1013,Químicos,15,lb,21-Feb-2025,BOD-02,333.43,kg
+DES-8593,CLI-1043,Electrodomésticos,333,pallets,13-May-2025,BOD-03,3161.77,kg
+DES-8594,CLI-1008,Alimentos,340,cajas,26-May-2025,BOD-01,2413.95,kg
+DES-8595,CLI-1028,Electrodomésticos,313,pallets,19-Jun-2025,BOD-03,5928.89,kg
+DES-8596,CLI-1030,Químicos,302,cajas,19-May-2025,BOD-04,2339.57,lb
+DES-8597,CLI-1019,Alimentos,382,ton,27-Jan-2025,BOD-04,6421.17,kg
+DES-8598,C-1029,Materiales de construcción,352,ton,24-Apr-2025,BOD-01,2963.35,kg
+DES-8599,CLI-1040,Químicos,111,pallets,24-Apr-2025,BOD-03,1732.73,lb
+DES-8600,CLI-1046,Textiles,279,pallets,01-Mar-2025,BOD-01,1649.79,lb
+DES-8601,CLI-1039,Materiales de construcción,249,pallets,02-Mar-2025,BOD-02,614.39,lb
+DES-8602,CLI-1001,Textiles,94,kg,06-Jun-2025,BOD-03,1791.66,lb
+DES-8603,CLI-1022,Alimentos,409,kg,29-Jun-2025,BOD-01,1484.79,kg
+DES-8604,CLI-1025,Químicos,232,pallets,19-Apr-2025,BOD-01,2408.2,lb
+DES-8605,CLI-1014,Alimentos,263,cajas,01-May-2025,BOD-03,5472.12,lb
+DES-8606,CLI-1015,Textiles,296,pallets,07-Apr-2025,BOD-01,6606.47,kg
+DES-8607,CLI-1014,Materiales de construcción,181,ton,22-Mar-2025,BOD-04,,kg
+DES-8608,CLI-1006,Alimentos,190,pallets,14-Apr-2025,BOD-04,1468.02,lb
+DES-8609,CLI-1014,Materiales de construcción,319,lb,09-Jun-2025,BOD-03,215.95,lb
+DES-8610,CLI-1020,Alimentos,222,lb,27-Apr-2025,BOD-03,1190.02,lb
+DES-8611,CLI-1003,Materiales de construcción,261,ton,09-Jan-2025,BOD-02,4851.76,kg
+DES-8612,CLI-1001,Textiles,386,cajas,25-Feb-2025,BOD-04,2287.23,kg
+DES-8613,CLI-1022,Químicos,346,cajas,27-Feb-2025,BOD-02,1614.19,kg
+DES-8614,CLI-1018,Materiales de construcción,241,lb,26-May-2025,BOD-01,2636.32,lb
+DES-8615,CLI-1000,Electrodomésticos,307,kg,13-Jan-2025,BOD-01,2427.73,lb
+DES-8616,CLI-1025,Electrodomésticos,392,cajas,28-Feb-2025,BOD-02,4165.82,lb
+DES-8617,CLI-1048,Químicos,406,pallets,01-Jun-2025,BOD-02,,lb
+DES-8618,CLI-1039,Alimentos,332,lb,27-Jan-2025,BOD-04,6632.2,kg
+DES-8619,CLI-1038,Textiles,263,kg,19-Apr-2025,BOD-03,4245.68,kg
+DES-8620,CLI-1000,Alimentos,189,cajas,10-Mar-2025,BOD-03,2032.21,lb
+DES-8621,CLI-1016,Químicos,415,ton,05-Mar-2025,BOD-04,8017.29,kg
+DES-8622,CLI-1047,Alimentos,76,pallets,27-May-2025,BOD-03,762.3,lb
+DES-8623,CLI-1005,Materiales de construcción,107,cajas,21-May-2025,BOD-04,1213.63,kg
+DES-8624,CLI-1028,Alimentos,135,lb,01-Apr-2025,BOD-04,1748.08,kg
+DES-8625,CLI-1032,Electrodomésticos,212,ton,24-Mar-2025,BOD-02,1351.23,lb
+DES-8626,CLI-1017,Químicos,420,pallets,14-Jun-2025,BOD-03,,lb
+DES-8627,cliente_1049,Textiles,193,lb,19-May-2025,BOD-03,932.52,kg
+DES-8628,CLI-1011,Electrodomésticos,361,lb,10-Apr-2025,BOD-02,4641.7,kg
+DES-8629,CLI-1000,Materiales de construcción,289,kg,25-Feb-2025,BOD-03,3115.53,lb
+DES-8630,CLI-1024,Químicos,10,lb,31-May-2025,BOD-02,121.85,lb
+DES-8631,CLI-1028,Alimentos,245,cajas,30-May-2025,BOD-01,2679.74,kg
+DES-8632,CLI-1011,Electrodomésticos,425,lb,13-Jan-2025,BOD-04,7488.26,lb
+DES-8633,CLI-1035,Químicos,373,pallets,23-Jan-2025,BOD-01,574.02,lb
+DES-8634,CLI-1007,Alimentos,276,pallets,27-Feb-2025,BOD-02,2658.92,lb
+DES-8635,CLI-1045,Químicos,10,kg,03-Mar-2025,BOD-03,82.34,kg
+DES-8636,CLI-1049,Electrodomésticos,95,pallets,31-Mar-2025,BOD-02,1885.8,kg
+DES-8637,C-1006,Electrodomésticos,45,ton,19-Mar-2025,BOD-04,126.88,kg
+DES-8638,CLI-1023,Materiales de construcción,38,cajas,17-Jun-2025,BOD-03,584.66,kg
+DES-8639,CLI-1012,Químicos,330,lb,12-Jan-2025,BOD-03,1141.78,kg
+DES-8640,CLI-1042,Materiales de construcción,123,pallets,20-Apr-2025,BOD-04,307.05,lb
+DES-8641,CLI-1042,Químicos,49,cajas,06-Jan-2025,BOD-01,,kg
+DES-8642,CLI-1038,Textiles,372,ton,28-May-2025,BOD-03,,kg
+DES-8643,CLI-1038,Químicos,52,ton,02-Jun-2025,BOD-02,1061.48,kg
+DES-8644,CLI-1048,Textiles,153,pallets,02-Apr-2025,BOD-02,234.28,lb
+DES-8645,cliente_1002,Electrodomésticos,493,ton,08-May-2025,BOD-01,11547.55,lb
+DES-8646,CLI-1031,Alimentos,277,pallets,03-Apr-2025,BOD-02,5000.0,lb
+DES-8647,CLI-1034,Electrodomésticos,208,cajas,28-Jan-2025,BOD-02,4716.47,kg
+DES-8648,CLI-1046,Electrodomésticos,342,ton,19-Jan-2025,BOD-03,8074.01,lb
+DES-8649,CLI-1020,Químicos,354,kg,13-Feb-2025,BOD-01,4985.03,kg
+DES-8650,cliente_1041,Electrodomésticos,287,kg,06-Feb-2025,BOD-02,6215.06,kg
+DES-8651,CLI-1043,Materiales de construcción,442,pallets,27-Feb-2025,BOD-01,2193.07,lb
+DES-8652,CLI-1037,Materiales de construcción,403,cajas,03-Jun-2025,BOD-02,789.64,kg
+DES-8653,CLI-1014,Electrodomésticos,414,lb,21-Jun-2025,BOD-04,5836.08,kg
+DES-8654,CLI-1001,Materiales de construcción,370,cajas,12-Jun-2025,BOD-04,7982.51,kg
+DES-8655,CLI-1018,Alimentos,25,lb,11-Feb-2025,BOD-01,98.85,kg
+DES-8656,CLI-1013,Químicos,13,pallets,04-Feb-2025,BOD-03,253.65,kg
+DES-8657,CLI-1016,Alimentos,392,cajas,15-Jan-2025,BOD-01,6839.97,lb
+DES-8658,CLI-1006,Alimentos,29,pallets,04-Mar-2025,BOD-04,415.17,lb
+DES-8659,CLI-1017,Materiales de construcción,458,lb,11-Jan-2025,BOD-01,6856.38,lb
+DES-8660,CLI-1032,Electrodomésticos,221,ton,29-Apr-2025,BOD-03,2267.5,kg
+DES-8661,cliente_1043,Materiales de construcción,336,pallets,04-Apr-2025,BOD-01,4177.9,kg
+DES-8662,CLI-1038,Alimentos,50,lb,11-Feb-2025,BOD-01,380.69,lb
+DES-8663,CLI-1029,Químicos,474,cajas,17-Feb-2025,BOD-02,8069.77,lb
+DES-8664,CLI-1029,Químicos,395,cajas,04-Jun-2025,BOD-03,,kg
+DES-8665,CLI-1025,Alimentos,263,ton,20-May-2025,BOD-04,927.03,lb
+DES-8666,CLI-1043,Químicos,465,pallets,27-Mar-2025,BOD-01,1767.65,lb
+DES-8667,C-1008,Materiales de construcción,422,cajas,10-Apr-2025,BOD-01,8053.7,lb
+DES-8668,CLI-1008,Materiales de construcción,214,cajas,04-Jan-2025,BOD-03,3235.83,kg
+DES-8669,CLI-1017,Químicos,458,pallets,07-Jun-2025,BOD-04,5650.05,kg
+DES-8670,CLI-1007,Químicos,199,cajas,13-Feb-2025,BOD-04,4104.82,lb
+DES-8671,CLI-1002,Textiles,42,lb,09-May-2025,BOD-02,110.25,kg
+DES-8672,CLI-1020,Textiles,150,ton,23-Feb-2025,BOD-02,1330.27,lb
+DES-8673,CLI-1002,Electrodomésticos,276,lb,18-May-2025,BOD-03,4196.58,kg
+DES-8674,CLI-1028,Textiles,65,lb,17-Jan-2025,BOD-02,45.65,lb
+DES-8675,CLI-1046,Textiles,179,ton,24-Jan-2025,BOD-01,2348.19,lb
+DES-8676,CLI-1026,Electrodomésticos,178,pallets,10-Jun-2025,BOD-03,2984.19,kg
+DES-8677,CLI-1009,Textiles,381,kg,06-Jan-2025,BOD-01,8434.65,lb
+DES-8678,CLI-1016,Textiles,381,kg,17-Mar-2025,BOD-01,2813.84,kg
+DES-8679,CLI-1034,Químicos,272,ton,14-Mar-2025,BOD-02,4673.61,lb
+DES-8680,CLI-1030,Materiales de construcción,400,pallets,13-Feb-2025,BOD-03,642.3,kg
+DES-8681,CLI-1006,Electrodomésticos,228,pallets,08-Feb-2025,BOD-01,1326.22,kg
+DES-8682,CLI-1032,Electrodomésticos,344,kg,16-Jan-2025,BOD-04,1441.29,lb
+DES-8683,cliente_1010,Químicos,186,cajas,17-May-2025,BOD-04,3787.67,lb
+DES-8684,CLI-1023,Materiales de construcción,252,cajas,16-Mar-2025,BOD-02,2700.63,lb
+DES-8685,CLI-1032,Materiales de construcción,496,pallets,07-Feb-2025,BOD-04,10260.82,kg
+DES-8686,CLI-1020,Alimentos,161,ton,07-Feb-2025,BOD-03,879.65,kg
+DES-8687,CLI-1004,Químicos,279,pallets,21-Feb-2025,BOD-01,2402.86,kg
+DES-8688,C-1016,Alimentos,197,ton,27-May-2025,BOD-02,2563.8,lb
+DES-8689,CLI-1010,Electrodomésticos,144,cajas,15-Apr-2025,BOD-04,1411.55,lb
+DES-8690,CLI-1045,Electrodomésticos,282,ton,23-May-2025,BOD-04,2208.37,lb
+DES-8691,CLI-1005,Textiles,38,cajas,23-Mar-2025,BOD-01,655.82,kg
+DES-8692,CLI-1045,Químicos,294,lb,05-Jun-2025,BOD-01,2822.32,kg
+DES-8693,CLI-1025,Textiles,58,kg,06-May-2025,BOD-01,394.09,lb
+DES-8694,cliente_1014,Electrodomésticos,335,kg,07-Jan-2025,BOD-01,2443.96,lb
+DES-8695,CLI-1022,Textiles,312,pallets,10-Apr-2025,BOD-03,,lb
+DES-8696,CLI-1017,Textiles,119,kg,06-Jun-2025,BOD-04,341.38,kg
+DES-8697,CLI-1043,Alimentos,126,ton,06-Mar-2025,BOD-04,,lb
+DES-8698,CLI-1039,Químicos,24,kg,07-Jan-2025,BOD-02,477.59,lb
+DES-8699,CLI-1014,Alimentos,164,pallets,06-Jun-2025,BOD-03,3050.87,lb
+DES-8700,CLI-1035,Químicos,330,kg,20-May-2025,BOD-01,6939.18,lb
+DES-8701,CLI-1032,Químicos,37,ton,01-Feb-2025,BOD-02,470.97,lb
+DES-8702,CLI-1013,Químicos,233,ton,13-May-2025,BOD-04,5271.4,kg
+DES-8703,CLI-1013,Textiles,70,ton,13-Feb-2025,BOD-02,1528.67,lb
+DES-8704,CLI-1016,Materiales de construcción,30,cajas,06-Jan-2025,BOD-04,166.95,kg
+DES-8705,CLI-1019,Materiales de construcción,121,cajas,26-May-2025,BOD-03,1423.67,lb
+DES-8706,CLI-1016,Electrodomésticos,245,kg,01-Mar-2025,BOD-04,2590.31,lb
+DES-8707,CLI-1025,Electrodomésticos,11,cajas,12-Apr-2025,BOD-02,49.17,kg
+DES-8708,CLI-1007,Textiles,413,pallets,02-Feb-2025,BOD-02,8895.43,lb
+DES-8709,CLI-1034,Textiles,256,pallets,11-Mar-2025,BOD-02,2804.02,kg
+DES-8710,CLI-1038,Textiles,111,kg,23-Mar-2025,BOD-03,1806.44,lb
+DES-8711,CLI-1036,Textiles,349,kg,16-Apr-2025,BOD-04,452.06,lb
+DES-8712,CLI-1034,Alimentos,128,kg,17-Feb-2025,BOD-03,2113.16,lb
+DES-8713,CLI-1013,Alimentos,276,lb,02-Jun-2025,BOD-01,898.49,lb
+DES-8714,CLI-1027,Alimentos,60,ton,09-Mar-2025,BOD-01,72.76,lb
+DES-8715,CLI-1047,Textiles,249,pallets,24-Jun-2025,BOD-04,4743.45,kg
+DES-8716,CLI-1019,Materiales de construcción,373,ton,09-Apr-2025,BOD-01,946.49,lb
+DES-8717,CLI-1046,Alimentos,306,lb,08-Apr-2025,BOD-03,4446.65,lb
+DES-8718,CLI-1010,Electrodomésticos,328,ton,12-May-2025,BOD-02,7568.34,kg
+DES-8719,CLI-1048,Químicos,109,cajas,01-Apr-2025,BOD-04,527.89,lb
+DES-8720,CLI-1029,Químicos,276,cajas,05-May-2025,BOD-03,3978.52,lb
+DES-8721,C-1035,Químicos,46,ton,21-Mar-2025,BOD-04,312.46,kg
+DES-8722,C-1037,Alimentos,122,pallets,11-Jan-2025,BOD-03,596.5,lb
+DES-8723,CLI-1008,Textiles,112,pallets,05-Jun-2025,BOD-04,2387.1,kg
+DES-8724,CLI-1023,Electrodomésticos,26,kg,20-Jan-2025,BOD-02,401.44,lb
+DES-8725,CLI-1019,Materiales de construcción,10,lb,15-Mar-2025,BOD-02,106.11,lb
+DES-8726,CLI-1031,Materiales de construcción,90,kg,12-Mar-2025,BOD-01,236.9,lb
+DES-8727,cliente_1006,Químicos,407,lb,03-May-2025,BOD-01,3313.27,kg
+DES-8728,CLI-1021,Químicos,124,pallets,19-Jun-2025,BOD-04,1441.83,lb
+DES-8729,CLI-1029,Textiles,208,cajas,16-Feb-2025,BOD-04,706.2,kg
+DES-8730,CLI-1048,Textiles,244,ton,23-Apr-2025,BOD-02,,kg
+DES-8731,CLI-1023,Materiales de construcción,418,cajas,30-May-2025,BOD-04,10254.56,lb
+DES-8732,CLI-1023,Materiales de construcción,250,kg,25-Jun-2025,BOD-03,2341.71,lb
+DES-8733,C-1039,Textiles,90,cajas,30-Apr-2025,BOD-01,299.97,lb
+DES-8734,CLI-1019,Materiales de construcción,59,cajas,26-Jun-2025,BOD-02,933.44,kg
+DES-8735,cliente_1046,Químicos,12,pallets,23-Apr-2025,BOD-03,125.45,lb
+DES-8736,CLI-1048,Electrodomésticos,27,pallets,03-Apr-2025,BOD-04,146.11,lb
+DES-8737,CLI-1032,Químicos,255,pallets,18-Mar-2025,BOD-02,6330.39,lb
+DES-8738,CLI-1017,Alimentos,462,cajas,15-Jan-2025,BOD-04,,lb
+DES-8739,CLI-1025,Químicos,346,cajas,04-Apr-2025,BOD-04,7026.44,lb
+DES-8740,CLI-1047,Alimentos,275,cajas,22-Jun-2025,BOD-04,2731.51,lb
+DES-8741,CLI-1037,Alimentos,236,kg,02-Apr-2025,BOD-02,1708.49,lb
+DES-8742,CLI-1016,Alimentos,341,kg,14-Jun-2025,BOD-03,366.98,lb
+DES-8743,CLI-1015,Químicos,263,ton,08-Jun-2025,BOD-01,3734.44,lb
+DES-8744,C-1043,Materiales de construcción,322,cajas,23-Mar-2025,BOD-03,2786.19,kg
+DES-8745,CLI-1015,Químicos,422,lb,17-Mar-2025,BOD-01,8201.52,lb
+DES-8746,C-1033,Electrodomésticos,201,ton,18-May-2025,BOD-02,3692.42,lb
+DES-8747,CLI-1025,Materiales de construcción,106,ton,05-Jun-2025,BOD-02,,lb
+DES-8748,CLI-1019,Materiales de construcción,31,lb,11-Jan-2025,BOD-02,363.81,kg
+DES-8749,cliente_1017,Electrodomésticos,190,kg,10-Apr-2025,BOD-02,3869.26,lb
+DES-8750,CLI-1001,Alimentos,62,kg,09-Feb-2025,BOD-03,815.6,lb
+DES-8751,CLI-1040,Materiales de construcción,231,ton,23-Feb-2025,BOD-04,2760.07,lb
+DES-8752,CLI-1017,Químicos,452,cajas,11-Jan-2025,BOD-02,9647.37,kg
+DES-8753,cliente_1031,Textiles,430,pallets,11-Jun-2025,BOD-03,1389.22,kg
+DES-8754,CLI-1003,Materiales de construcción,155,kg,14-Jan-2025,BOD-01,757.4,lb
+DES-8755,CLI-1027,Electrodomésticos,257,pallets,03-Feb-2025,BOD-03,852.5,lb
+DES-8756,CLI-1033,Alimentos,313,cajas,06-May-2025,BOD-04,1706.95,kg
+DES-8757,CLI-1015,Electrodomésticos,228,kg,11-Mar-2025,BOD-02,,lb
+DES-8758,CLI-1041,Alimentos,148,cajas,20-May-2025,BOD-02,3174.28,kg
+DES-8759,CLI-1022,Textiles,219,kg,20-Feb-2025,BOD-01,4005.92,lb
+DES-8760,CLI-1021,Químicos,397,cajas,19-Jan-2025,BOD-01,6389.5,kg
+DES-8761,CLI-1010,Materiales de construcción,103,ton,13-Apr-2025,BOD-02,1489.86,kg
+DES-8762,CLI-1012,Químicos,246,lb,08-Apr-2025,BOD-03,,kg
+DES-8763,CLI-1044,Textiles,475,ton,11-May-2025,BOD-04,342.02,kg
+DES-8764,CLI-1031,Materiales de construcción,43,kg,13-Jun-2025,BOD-03,146.98,kg
+DES-8765,CLI-1027,Alimentos,30,cajas,13-Jan-2025,BOD-02,574.59,lb
+DES-8766,CLI-1028,Materiales de construcción,384,lb,13-May-2025,BOD-01,2337.01,lb
+DES-8767,CLI-1029,Textiles,231,lb,20-Jun-2025,BOD-01,,lb
+DES-8768,CLI-1039,Textiles,255,ton,12-May-2025,BOD-01,1309.17,lb
+DES-8769,CLI-1035,Materiales de construcción,135,cajas,08-Mar-2025,BOD-01,1483.18,lb
+DES-8770,CLI-1047,Materiales de construcción,267,lb,10-Mar-2025,BOD-01,3736.73,lb
+DES-8771,CLI-1047,Materiales de construcción,120,kg,22-Feb-2025,BOD-01,1415.83,lb
+DES-8772,CLI-1027,Electrodomésticos,442,lb,12-Feb-2025,BOD-01,1565.94,lb
+DES-8773,CLI-1010,Textiles,436,kg,07-Feb-2025,BOD-04,4288.88,kg
+DES-8774,CLI-1001,Materiales de construcción,431,ton,06-Mar-2025,BOD-04,3939.04,kg
+DES-8775,CLI-1015,Electrodomésticos,235,pallets,18-Jun-2025,BOD-01,4742.19,lb
+DES-8776,CLI-1003,Textiles,359,cajas,24-Feb-2025,BOD-01,1212.75,lb
+DES-8777,CLI-1013,Electrodomésticos,295,lb,02-Jan-2025,BOD-03,1072.79,kg
+DES-8778,CLI-1042,Materiales de construcción,81,kg,13-Apr-2025,BOD-02,1643.48,kg
+DES-8779,CLI-1019,Materiales de construcción,457,kg,13-Jan-2025,BOD-02,10417.85,kg
+DES-8780,CLI-1022,Alimentos,281,lb,26-Apr-2025,BOD-03,3193.53,lb
+DES-8781,CLI-1038,Químicos,463,ton,04-Jun-2025,BOD-02,3304.4,lb
+DES-8782,CLI-1040,Alimentos,131,pallets,29-Jan-2025,BOD-01,1785.1,lb
+DES-8783,CLI-1009,Textiles,401,pallets,08-Feb-2025,BOD-03,8570.5,lb
+DES-8784,CLI-1006,Materiales de construcción,185,ton,05-Apr-2025,BOD-04,3199.81,kg
+DES-8785,CLI-1021,Alimentos,312,kg,04-Mar-2025,BOD-01,4552.73,lb
+DES-8786,CLI-1019,Alimentos,389,pallets,30-Apr-2025,BOD-01,6629.56,lb
+DES-8787,CLI-1000,Alimentos,272,pallets,18-Mar-2025,BOD-01,6032.14,lb
+DES-8788,CLI-1047,Electrodomésticos,271,pallets,09-Feb-2025,BOD-03,2048.39,lb
+DES-8789,CLI-1002,Textiles,479,lb,10-Jan-2025,BOD-04,7229.86,lb
+DES-8790,CLI-1022,Alimentos,317,ton,07-Apr-2025,BOD-01,,kg
+DES-8791,CLI-1042,Textiles,238,cajas,28-Mar-2025,BOD-04,4595.1,lb
+DES-8792,CLI-1040,Químicos,488,cajas,13-Mar-2025,BOD-02,4666.97,kg
+DES-8793,CLI-1008,Textiles,273,cajas,09-Feb-2025,BOD-02,3363.89,lb
+DES-8794,CLI-1039,Electrodomésticos,18,cajas,21-Jan-2025,BOD-03,394.51,lb
+DES-8795,CLI-1038,Alimentos,290,lb,31-May-2025,BOD-04,3426.41,lb
+DES-8796,CLI-1046,Electrodomésticos,233,cajas,04-Feb-2025,BOD-03,4615.32,lb
+DES-8797,CLI-1007,Textiles,178,lb,01-Jun-2025,BOD-03,4021.04,kg
+DES-8798,CLI-1049,Químicos,230,cajas,13-Mar-2025,BOD-01,2231.53,kg
+DES-8799,CLI-1009,Textiles,261,ton,26-Jun-2025,BOD-04,2435.38,kg
+DES-8800,CLI-1018,Alimentos,495,kg,11-Jun-2025,BOD-03,1499.29,kg
+DES-8801,cliente_1003,Alimentos,154,lb,01-Apr-2025,BOD-02,3058.82,lb
+DES-8802,CLI-1022,Materiales de construcción,182,lb,23-Apr-2025,BOD-01,1981.45,kg
+DES-8803,CLI-1013,Alimentos,416,cajas,20-Apr-2025,BOD-01,,lb
+DES-8804,CLI-1048,Electrodomésticos,164,pallets,24-Jan-2025,BOD-04,3132.19,kg
+DES-8805,CLI-1018,Textiles,50,cajas,25-Jan-2025,BOD-03,858.6,lb
+DES-8806,CLI-1049,Textiles,57,pallets,01-May-2025,BOD-02,340.01,lb
+DES-8807,CLI-1002,Materiales de construcción,359,ton,23-Jan-2025,BOD-04,496.55,lb
+DES-8808,CLI-1041,Electrodomésticos,55,kg,07-Apr-2025,BOD-02,832.25,kg
+DES-8809,CLI-1006,Alimentos,440,ton,14-Feb-2025,BOD-02,4595.57,kg
+DES-8810,CLI-1002,Materiales de construcción,372,ton,30-Jun-2025,BOD-02,6635.2,lb
+DES-8811,CLI-1015,Químicos,310,kg,17-Feb-2025,BOD-02,4281.69,lb
+DES-8812,CLI-1033,Textiles,493,kg,28-May-2025,BOD-02,6626.52,lb
+DES-8813,CLI-1028,Materiales de construcción,60,cajas,29-Apr-2025,BOD-04,395.24,lb
+DES-8814,CLI-1008,Electrodomésticos,288,ton,22-Mar-2025,BOD-01,1453.55,kg
+DES-8815,CLI-1047,Químicos,232,lb,06-May-2025,BOD-02,4253.56,lb
+DES-8816,CLI-1019,Alimentos,444,kg,10-Mar-2025,BOD-02,8559.94,kg
+DES-8817,CLI-1048,Químicos,316,cajas,16-Apr-2025,BOD-04,4755.84,lb
+DES-8818,CLI-1033,Electrodomésticos,359,pallets,05-May-2025,BOD-03,2577.38,kg
+DES-8819,CLI-1019,Químicos,279,cajas,19-Jun-2025,BOD-03,6511.99,lb
+DES-8820,CLI-1024,Materiales de construcción,121,pallets,12-Jun-2025,BOD-03,799.61,lb
+DES-8821,CLI-1021,Químicos,216,lb,18-Jun-2025,BOD-02,3362.84,kg
+DES-8822,CLI-1009,Químicos,415,pallets,07-Jan-2025,BOD-04,2935.12,lb
+DES-8823,CLI-1024,Químicos,351,pallets,17-Jan-2025,BOD-02,7397.21,kg
+DES-8824,CLI-1015,Textiles,146,cajas,27-May-2025,BOD-02,737.39,kg
+DES-8825,CLI-1014,Químicos,116,ton,10-May-2025,BOD-03,209.29,lb
+DES-8826,CLI-1043,Electrodomésticos,114,pallets,19-Apr-2025,BOD-03,2031.22,lb
+DES-8827,CLI-1031,Materiales de construcción,135,kg,11-Mar-2025,BOD-03,1999.48,lb
+DES-8828,CLI-1043,Químicos,349,cajas,21-Jun-2025,BOD-03,7234.43,lb
+DES-8829,CLI-1032,Químicos,297,kg,16-Jan-2025,BOD-03,636.78,kg
+DES-8830,CLI-1025,Químicos,343,cajas,13-Mar-2025,BOD-03,8076.16,lb
+DES-8831,CLI-1013,Químicos,478,ton,15-Feb-2025,BOD-01,4544.49,kg
+DES-8832,CLI-1016,Químicos,191,ton,08-Mar-2025,BOD-02,293.49,lb
+DES-8833,CLI-1009,Electrodomésticos,360,pallets,24-Apr-2025,BOD-03,4201.15,kg
+DES-8834,CLI-1023,Textiles,35,ton,25-Mar-2025,BOD-01,507.69,lb
+DES-8835,CLI-1042,Electrodomésticos,421,lb,17-Apr-2025,BOD-01,2638.87,lb
+DES-8836,CLI-1035,Alimentos,35,pallets,28-Jan-2025,BOD-03,865.47,kg
+DES-8837,CLI-1011,Materiales de construcción,266,cajas,22-Apr-2025,BOD-02,1346.25,lb
+DES-8838,CLI-1042,Materiales de construcción,364,kg,14-Mar-2025,BOD-02,2005.33,kg
+DES-8839,CLI-1000,Químicos,30,pallets,07-Jun-2025,BOD-04,46.77,lb
+DES-8840,CLI-1009,Textiles,318,kg,18-May-2025,BOD-03,3736.07,lb
+DES-8841,CLI-1037,Químicos,195,pallets,03-Jun-2025,BOD-03,4145.21,lb
+DES-8842,CLI-1001,Textiles,189,pallets,11-Jun-2025,BOD-01,4528.1,lb
+DES-8843,CLI-1013,Alimentos,472,pallets,19-Feb-2025,BOD-03,11131.33,kg
+DES-8844,CLI-1040,Químicos,255,lb,02-Feb-2025,BOD-01,2802.1,kg
+DES-8845,CLI-1038,Textiles,469,ton,31-Jan-2025,BOD-04,3538.03,kg
+DES-8846,CLI-1029,Electrodomésticos,154,cajas,04-Mar-2025,BOD-01,1146.34,kg
+DES-8847,CLI-1039,Textiles,237,lb,05-Mar-2025,BOD-02,2521.04,lb
+DES-8848,CLI-1022,Químicos,448,kg,15-Feb-2025,BOD-02,4633.13,lb
+DES-8849,CLI-1022,Alimentos,271,kg,19-Apr-2025,BOD-03,3147.77,lb
+DES-8850,CLI-1021,Textiles,225,cajas,05-Feb-2025,BOD-02,2346.07,lb
+DES-8851,CLI-1047,Electrodomésticos,83,cajas,22-Mar-2025,BOD-01,57.17,lb
+DES-8852,CLI-1047,Químicos,291,cajas,14-Jan-2025,BOD-01,2421.28,kg
+DES-8853,CLI-1049,Electrodomésticos,101,kg,14-May-2025,BOD-04,1173.03,kg
+DES-8854,CLI-1011,Textiles,196,ton,29-May-2025,BOD-02,178.18,lb
+DES-8855,CLI-1017,Materiales de construcción,154,pallets,23-Mar-2025,BOD-04,1325.29,kg
+DES-8856,CLI-1028,Materiales de construcción,161,ton,07-Feb-2025,BOD-02,206.99,lb
+DES-8857,CLI-1011,Químicos,359,lb,21-Apr-2025,BOD-03,5703.78,lb
+DES-8858,CLI-1047,Electrodomésticos,303,kg,11-Feb-2025,BOD-01,2412.6,kg
+DES-8859,CLI-1020,Alimentos,288,pallets,11-Jan-2025,BOD-01,496.12,kg
+DES-8860,CLI-1012,Alimentos,210,lb,06-Mar-2025,BOD-04,1149.86,kg
+DES-8861,CLI-1000,Alimentos,256,lb,20-Mar-2025,BOD-04,4521.89,kg
+DES-8862,CLI-1000,Materiales de construcción,429,pallets,14-Mar-2025,BOD-04,8318.82,lb
+DES-8863,CLI-1014,Químicos,485,cajas,14-Jan-2025,BOD-02,1381.94,lb
+DES-8864,CLI-1000,Alimentos,235,kg,30-Jan-2025,BOD-03,4169.42,kg
+DES-8865,CLI-1035,Textiles,451,ton,14-Jun-2025,BOD-04,1247.96,lb
+DES-8866,CLI-1024,Materiales de construcción,65,cajas,11-Apr-2025,BOD-04,629.65,lb
+DES-8867,cliente_1038,Electrodomésticos,262,ton,26-May-2025,BOD-01,5031.74,kg
+DES-8868,CLI-1003,Alimentos,379,lb,31-May-2025,BOD-04,5821.86,kg
+DES-8869,CLI-1015,Electrodomésticos,259,pallets,27-Feb-2025,BOD-03,4213.36,kg
+DES-8870,CLI-1033,Materiales de construcción,375,lb,18-Mar-2025,BOD-04,3406.67,lb
+DES-8871,CLI-1022,Textiles,388,lb,28-May-2025,BOD-03,4634.11,lb
+DES-8872,CLI-1024,Alimentos,13,pallets,11-Mar-2025,BOD-02,283.39,lb
+DES-8873,CLI-1034,Alimentos,227,ton,22-Jun-2025,BOD-02,2617.1,kg
+DES-8874,CLI-1026,Electrodomésticos,399,ton,16-Jun-2025,BOD-04,7899.03,kg
+DES-8875,CLI-1007,Materiales de construcción,233,pallets,11-Jan-2025,BOD-01,267.14,kg
+DES-8876,cliente_1027,Electrodomésticos,310,kg,02-Jun-2025,BOD-01,6341.75,kg
+DES-8877,CLI-1041,Químicos,35,kg,21-Feb-2025,BOD-04,609.43,kg
+DES-8878,CLI-1033,Electrodomésticos,186,pallets,02-May-2025,BOD-04,3971.63,kg
+DES-8879,CLI-1005,Alimentos,353,pallets,30-Apr-2025,BOD-04,4557.14,kg
+DES-8880,CLI-1006,Materiales de construcción,181,cajas,20-Jun-2025,BOD-04,1447.05,kg
+DES-8881,CLI-1031,Químicos,113,lb,04-Jun-2025,BOD-04,1981.62,kg
+DES-8882,CLI-1037,Textiles,86,kg,01-Apr-2025,BOD-02,819.21,kg
+DES-8883,CLI-1046,Materiales de construcción,488,cajas,19-Mar-2025,BOD-02,4448.99,kg
+DES-8884,CLI-1031,Alimentos,64,cajas,05-May-2025,BOD-03,1410.71,lb
+DES-8885,CLI-1040,Químicos,106,lb,19-May-2025,BOD-02,1950.95,lb
+DES-8886,C-1046,Químicos,144,pallets,28-Apr-2025,BOD-04,1663.58,kg
+DES-8887,CLI-1023,Materiales de construcción,485,pallets,25-Jun-2025,BOD-03,8020.85,lb
+DES-8888,CLI-1013,Materiales de construcción,130,lb,13-Apr-2025,BOD-04,,kg
+DES-8889,cliente_1022,Textiles,405,kg,25-Jan-2025,BOD-02,813.55,lb
+DES-8890,CLI-1016,Químicos,337,pallets,02-Feb-2025,BOD-04,,kg
+DES-8891,cliente_1036,Electrodomésticos,301,cajas,03-Jun-2025,BOD-02,1705.18,kg
+DES-8892,CLI-1043,Electrodomésticos,118,kg,08-Mar-2025,BOD-04,1668.74,kg
+DES-8893,C-1020,Químicos,281,ton,17-May-2025,BOD-04,2714.69,kg
+DES-8894,CLI-1021,Alimentos,101,cajas,13-Feb-2025,BOD-02,1530.8,lb
+DES-8895,CLI-1049,Materiales de construcción,499,cajas,09-Mar-2025,BOD-01,1639.98,kg
+DES-8896,CLI-1025,Materiales de construcción,447,pallets,22-Feb-2025,BOD-03,1562.0,kg
+DES-8897,CLI-1036,Textiles,419,ton,09-Feb-2025,BOD-02,1058.5,lb
+DES-8898,CLI-1032,Químicos,181,kg,08-Mar-2025,BOD-03,3131.06,lb
+DES-8899,CLI-1023,Electrodomésticos,171,lb,09-May-2025,BOD-04,3121.93,kg
+DES-8900,CLI-1029,Alimentos,114,kg,07-Feb-2025,BOD-03,648.23,lb
+DES-8901,CLI-1013,Alimentos,136,pallets,20-Jan-2025,BOD-03,1717.19,kg
+DES-8902,CLI-1037,Textiles,470,cajas,10-Feb-2025,BOD-03,6171.78,kg
+DES-8903,CLI-1024,Materiales de construcción,369,lb,01-May-2025,BOD-03,9150.97,kg
+DES-8904,CLI-1039,Alimentos,110,ton,28-May-2025,BOD-04,1499.09,lb
+DES-8905,CLI-1000,Materiales de construcción,284,lb,25-Mar-2025,BOD-04,4126.36,lb
+DES-8906,CLI-1014,Materiales de construcción,339,lb,10-Mar-2025,BOD-01,6696.37,kg
+DES-8907,CLI-1001,Alimentos,84,cajas,04-Jun-2025,BOD-03,1322.56,lb
+DES-8908,CLI-1017,Materiales de construcción,86,kg,01-Jan-2025,BOD-01,1106.89,lb
+DES-8909,CLI-1039,Materiales de construcción,338,kg,25-Feb-2025,BOD-02,3230.58,lb
+DES-8910,CLI-1013,Materiales de construcción,167,pallets,12-Jun-2025,BOD-01,448.27,lb
+DES-8911,C-1002,Textiles,163,cajas,08-Apr-2025,BOD-01,2649.42,lb
+DES-8912,CLI-1018,Textiles,206,ton,21-Mar-2025,BOD-03,1535.5,kg
+DES-8913,CLI-1000,Textiles,73,ton,03-Apr-2025,BOD-03,1454.86,kg
+DES-8914,CLI-1009,Textiles,301,lb,05-Jan-2025,BOD-01,,kg
+DES-8915,CLI-1042,Alimentos,127,lb,12-Apr-2025,BOD-01,2920.87,lb
+DES-8916,CLI-1016,Químicos,360,kg,19-Jun-2025,BOD-04,627.38,kg
+DES-8917,CLI-1036,Materiales de construcción,446,kg,17-Jan-2025,BOD-03,1407.0,kg
+DES-8918,CLI-1021,Textiles,48,lb,16-Jun-2025,BOD-01,894.49,kg
+DES-8919,CLI-1010,Textiles,159,kg,07-May-2025,BOD-04,341.96,kg
+DES-8920,CLI-1038,Alimentos,233,lb,20-Jun-2025,BOD-03,1656.73,kg
+DES-8921,CLI-1013,Textiles,232,cajas,08-Apr-2025,BOD-01,914.48,lb
+DES-8922,CLI-1038,Electrodomésticos,178,cajas,27-Mar-2025,BOD-01,2004.55,kg
+DES-8923,CLI-1042,Alimentos,382,cajas,22-May-2025,BOD-01,6778.71,kg
+DES-8924,cliente_1047,Alimentos,313,ton,13-Feb-2025,BOD-01,5088.3,kg
+DES-8925,CLI-1041,Alimentos,91,pallets,03-Jun-2025,BOD-03,1168.67,lb
+DES-8926,CLI-1007,Alimentos,13,kg,01-Mar-2025,BOD-03,227.34,lb
+DES-8927,CLI-1036,Materiales de construcción,107,pallets,02-Feb-2025,BOD-02,1134.05,kg
+DES-8928,CLI-1000,Electrodomésticos,434,ton,08-Jan-2025,BOD-04,3427.86,kg
+DES-8929,cliente_1009,Electrodomésticos,327,pallets,17-Jun-2025,BOD-03,3655.23,lb
+DES-8930,CLI-1025,Alimentos,329,lb,20-May-2025,BOD-02,3899.34,kg
+DES-8931,CLI-1015,Químicos,244,lb,05-Jun-2025,BOD-04,1988.16,lb
+DES-8932,CLI-1044,Materiales de construcción,73,lb,19-Feb-2025,BOD-01,1037.61,kg
+DES-8933,CLI-1006,Electrodomésticos,107,kg,15-May-2025,BOD-02,624.27,lb
+DES-8934,CLI-1025,Materiales de construcción,402,ton,04-Mar-2025,BOD-02,5550.43,kg
+DES-8935,CLI-1046,Textiles,85,lb,13-Apr-2025,BOD-04,1035.05,kg
+DES-8936,CLI-1040,Textiles,409,ton,04-Jan-2025,BOD-03,2678.53,lb
+DES-8937,C-1010,Textiles,284,cajas,23-Apr-2025,BOD-04,3440.7,kg
+DES-8938,CLI-1019,Textiles,326,ton,21-Jun-2025,BOD-04,5273.02,lb
+DES-8939,CLI-1045,Químicos,475,cajas,19-Mar-2025,BOD-04,5902.58,kg
+DES-8940,CLI-1004,Electrodomésticos,239,lb,17-Feb-2025,BOD-01,239.33,kg
+DES-8941,CLI-1044,Electrodomésticos,461,lb,19-Jan-2025,BOD-04,,kg
+DES-8942,CLI-1018,Químicos,421,ton,01-Apr-2025,BOD-02,4669.05,lb
+DES-8943,CLI-1004,Químicos,391,pallets,06-Jun-2025,BOD-02,5881.2,lb
+DES-8944,CLI-1027,Textiles,307,pallets,28-Mar-2025,BOD-02,1804.7,kg
+DES-8945,CLI-1035,Textiles,417,pallets,29-May-2025,BOD-04,6829.86,kg
+DES-8946,CLI-1049,Químicos,291,cajas,13-May-2025,BOD-04,6452.53,kg
+DES-8947,CLI-1017,Textiles,343,ton,04-Apr-2025,BOD-02,835.99,lb
+DES-8948,CLI-1037,Textiles,46,kg,25-Apr-2025,BOD-02,783.12,kg
+DES-8949,CLI-1020,Textiles,169,cajas,17-Jan-2025,BOD-01,3459.4,kg
+DES-8950,CLI-1031,Químicos,201,kg,27-May-2025,BOD-03,2889.45,lb
+DES-8951,CLI-1012,Alimentos,243,cajas,13-May-2025,BOD-04,867.15,kg
+DES-8952,CLI-1015,Materiales de construcción,488,kg,29-Mar-2025,BOD-03,1116.3,lb
+DES-8953,CLI-1035,Alimentos,388,lb,18-Mar-2025,BOD-02,1742.37,lb
+DES-8954,CLI-1037,Alimentos,182,kg,21-Feb-2025,BOD-01,3401.79,kg
+DES-8955,CLI-1022,Alimentos,59,pallets,17-Apr-2025,BOD-03,188.12,kg
+DES-8956,CLI-1001,Materiales de construcción,220,cajas,23-Mar-2025,BOD-01,3734.91,lb
+DES-8957,CLI-1014,Químicos,397,lb,04-Jun-2025,BOD-03,7337.5,lb
+DES-8958,CLI-1004,Químicos,131,cajas,07-Feb-2025,BOD-02,902.59,lb
+DES-8959,CLI-1044,Químicos,441,pallets,30-Apr-2025,BOD-02,9766.49,kg
+DES-8960,CLI-1013,Materiales de construcción,67,ton,13-May-2025,BOD-04,137.13,kg
+DES-8961,CLI-1022,Alimentos,355,cajas,29-Jun-2025,BOD-03,7808.04,kg
+DES-8962,CLI-1004,Textiles,235,lb,01-Jun-2025,BOD-02,4478.35,lb
+DES-8963,CLI-1013,Electrodomésticos,54,lb,06-Jun-2025,BOD-02,1337.47,kg
+DES-8964,CLI-1001,Materiales de construcción,267,cajas,12-Feb-2025,BOD-01,5474.05,lb
+DES-8965,CLI-1037,Alimentos,354,kg,08-Jan-2025,BOD-01,4595.3,kg
+DES-8966,CLI-1015,Químicos,162,pallets,11-Apr-2025,BOD-01,2770.04,kg
+DES-8967,CLI-1008,Electrodomésticos,266,ton,19-Mar-2025,BOD-03,287.69,kg
+DES-8968,CLI-1028,Electrodomésticos,78,pallets,12-Mar-2025,BOD-01,850.43,lb
+DES-8969,CLI-1034,Químicos,338,ton,17-Feb-2025,BOD-03,4871.55,lb
+DES-8970,CLI-1000,Textiles,350,ton,08-Jan-2025,BOD-02,5699.25,lb
+DES-8971,CLI-1016,Textiles,380,ton,22-Mar-2025,BOD-02,1162.65,lb
+DES-8972,CLI-1023,Electrodomésticos,455,kg,08-Jan-2025,BOD-04,249.17,kg
+DES-8973,CLI-1040,Alimentos,66,ton,02-Feb-2025,BOD-03,625.45,lb
+DES-8974,CLI-1036,Alimentos,78,kg,02-May-2025,BOD-02,1336.6,lb
+DES-8975,CLI-1027,Químicos,76,kg,09-May-2025,BOD-01,1361.46,lb
+DES-8976,CLI-1045,Materiales de construcción,473,cajas,09-May-2025,BOD-04,8760.42,lb
+DES-8977,CLI-1004,Textiles,266,cajas,04-May-2025,BOD-01,972.34,kg
+DES-8978,CLI-1038,Materiales de construcción,53,pallets,28-May-2025,BOD-04,861.73,kg
+DES-8979,CLI-1002,Alimentos,269,cajas,27-Feb-2025,BOD-03,2515.29,lb
+DES-8980,CLI-1020,Alimentos,388,pallets,19-Apr-2025,BOD-01,6327.28,lb
+DES-8981,CLI-1046,Textiles,153,kg,22-May-2025,BOD-01,1945.62,lb
+DES-8982,CLI-1049,Alimentos,382,kg,10-Mar-2025,BOD-01,3446.4,lb
+DES-8983,CLI-1020,Materiales de construcción,179,pallets,23-Feb-2025,BOD-01,3454.19,lb
+DES-8984,cliente_1015,Químicos,378,ton,11-Jan-2025,BOD-03,7850.06,kg
+DES-8985,cliente_1049,Textiles,308,ton,25-Apr-2025,BOD-03,2053.05,lb
+DES-8986,CLI-1014,Materiales de construcción,170,cajas,27-Apr-2025,BOD-02,4154.71,lb
+DES-8987,CLI-1040,Electrodomésticos,403,lb,23-Feb-2025,BOD-03,2037.1,lb
+DES-8988,CLI-1022,Alimentos,378,lb,03-Mar-2025,BOD-03,2661.5,kg
+DES-8989,CLI-1028,Materiales de construcción,372,pallets,26-Jun-2025,BOD-04,4451.21,kg
+DES-8990,CLI-1041,Textiles,419,kg,14-Jan-2025,BOD-01,,kg
+DES-8991,CLI-1043,Electrodomésticos,483,lb,10-Jan-2025,BOD-03,6093.05,kg
+DES-8992,CLI-1007,Textiles,161,cajas,02-Feb-2025,BOD-04,1528.37,lb
+DES-8993,CLI-1034,Electrodomésticos,466,lb,25-Jan-2025,BOD-03,6534.63,lb
+DES-8994,CLI-1030,Electrodomésticos,277,cajas,09-Mar-2025,BOD-02,6653.06,kg
+DES-8995,CLI-1049,Alimentos,163,cajas,21-Jan-2025,BOD-03,2329.64,lb
+DES-8996,CLI-1030,Electrodomésticos,68,kg,04-Feb-2025,BOD-04,810.69,kg
+DES-8997,CLI-1014,Textiles,90,lb,29-Apr-2025,BOD-03,1499.45,kg
+DES-8998,cliente_1048,Electrodomésticos,247,ton,06-Feb-2025,BOD-04,4113.9,lb
+DES-8999,CLI-1042,Alimentos,317,kg,01-Mar-2025,BOD-01,2183.86,kg
